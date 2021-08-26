@@ -1,4 +1,4 @@
-Open science as an undergraduate.
+# Open science as an undergraduate.
 
 What is open science 
 Open science is where a scientific process – including information on; experiments, software, failures, development, and end results - is completely transparent, easily accessible, and free to all. The undergrad project described in this article focused on working with the data analysis pipeline for ribosome profiling data, riboviz (https://github.com/riboviz/riboviz). riboviz is an example of an open software as all of the code needed to run it is accessible on GitHub, along with information on errors and developments in the form of issue tickets. This accessibility means that there is greater reproducibility, as anyone can try it or learn how to use it. This is a common theme of open science. In the long run this leads to a better quality of research, and better code quality, as more people are able to check processes.
