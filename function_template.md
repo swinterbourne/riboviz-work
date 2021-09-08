@@ -24,7 +24,7 @@ A template for formatting of function definitions to be added to rscripts
 # > str(output_object)
 ```
 
-Example from read_count_functions.R of function [GetGeneDatamatrix](https://github.com/riboviz/riboviz/blob/885bbf17b11c2e4da2190c100defd2fd85279d4c/rscripts/read_count_functions.R#L101):
+Example from `read_count_functions.R` of function [GetGeneDatamatrix](https://github.com/riboviz/riboviz/blob/885bbf17b11c2e4da2190c100defd2fd85279d4c/rscripts/read_count_functions.R#L101):
 
 ```
 #' GetGeneDatamatrix(): Get matrix of read counts  by length for one gene and dataset from .h5 file
@@ -48,7 +48,7 @@ GetGeneDatamatrix <- function(gene, dataset, hd_file){
 #TEST: GetGeneDatamatrix(): returns matrix TRUE
 ```
 
-Example from read_count_functions.R of function [AllGenes3EndPositionLengthCountsTibble](https://github.com/riboviz/riboviz/blob/885bbf17b11c2e4da2190c100defd2fd85279d4c/rscripts/read_count_functions.R#L460)
+Example from `read_count_functions.R` of function [AllGenes3EndPositionLengthCountsTibble](https://github.com/riboviz/riboviz/blob/885bbf17b11c2e4da2190c100defd2fd85279d4c/rscripts/read_count_functions.R#L460)
 
 ```
 #' AllGenes3EndPositionLengthCountsTibble(): Calculate sum of position- and read-length specific total counts over all genes at 3' end
