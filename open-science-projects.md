@@ -45,6 +45,33 @@ If you are an undergrad considering what direction to take your studies try to c
 # The PI perspective
 
 The ideal student research project benefits everyone involved: students learn and make their grades, while the research project moves forward and the research group learns from the students.
-Open science projects can approach this ideal, by treating students as collaborators throughout their projects, and having a clear pathway set up for them to collaborate.
+Open science projects can approach this ideal, by treating students as collaborators throughout their projects, and having a clear pathway set up for them to contribute.
 The key opportunity is that doing open science takes time, and it is hard to find others willing to climb the "mountain of engagement" from learning about a project to participating, collaborating, and leading.
 Students whose research project intersects with a larger open science project have the time and incentive to engage.
+
+Open-source software, like riboviz, needs users! 
+Users test features, read documentation, find bugs, and engaged users suggest improvements.
+Project students volunteered to do the project, then their grade depends on it, so they are highly motivated users.
+The mutual benefits are clearer if students test features that are both accessible to them and important to the project.
+For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, especially the quirks of different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
+Adapting riboviz to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design projects with running new datasets as an early objective.
+
+We prepare undergraduates who are bioinformatics novices for "expert" data wrangling tasks by having a pathway from novice to expert.
+We've learned that students can start by installing and running riboviz on a small built-in "vignette" dataset, overcoming installation problems.
+Then they can run on an existing full-size dataset, overcoming problems with data size and navigating directory structures.
+Next they work to analyse a dataset from an existing annotation, learning about common bioinformatics tasks such as adapter removal in sequencing analysis.
+Then they are ready to tackle adapting a dataset with a new genome annotation, an infuriantly unpredictable process in real-world bioinformatics.
+Other projects can similarly develop expertise through a thoughtful series of authentic research tasks.
+
+Documentation..
+Whatever state the existing documentation is in, the...
+
+Working open means routinely learning to see your work how other people see it.
+Nobody else cares how you feel about your code.
+This is an important life lesson?
+
+Research contribution and co-authorship.
+
+Finally, it is fun.
+Lucky to have good students.
+Amazed at what they can accomplish.
