@@ -56,6 +56,8 @@ The mutual benefits are clearest when students test features that are both acces
 For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, especially the quirks of different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
 For riboviz, adapting to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design student projects with running new datasets as an early objective.
 
+## The importance of a structured pathway forward
+
 We prepare undergraduates who are bioinformatics novices for expert data wrangling tasks by having a pathway from novice to expert, inspired by The Carpentries approach to data skills training.
 For riboviz, we've learned that students can start by installing the software and running a small built-in "vignette" dataset, overcoming installation problems.
 Then they can run on an existing full-size dataset, overcoming problems with data size and navigating directory structures.
@@ -72,6 +74,8 @@ If students don't know how to contribute code, do you need a better developer gu
 Writing documentation may not "feel like research", so you may need to explain its value so that students are motivated to contribute.
 Good documentation is essential to help researchers use and think clearly about using software, and the same is true of written experimental protocols.
 Writing documentation is excellent preparation for writing up a project report, especially the methods section, so benefits the student.
+
+## Overcoming the "intimidation threshold" to working open
 
 Working open means routinely sharing work, which can be difficult for students who may feel intimidated or anxious about being judged by others.
 These feelings do not reflect reality, as experienced bioinformaticians know that no-one else cares how you feel about your code, or even that you are the person who wrote it.
@@ -102,6 +106,8 @@ Authentic contributions within the project can lead to authentic credit, includi
 Our riboviz 2 preprint includes as co-authors 5 undergraduate or MSc students from Edinburgh, as well as 2 more from US collaborators.
 These co-authorships have been earned by adding new datasets, fixing bugs in code, adding new features, and improving documentation.
 Students also learn about the process of writing a collaborative paper by attending team manuscript meetings and contributing to the draft.
+
+## Mistakes and benefits
 
 We have made plenty of mistakes.
 Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
