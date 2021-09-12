@@ -45,7 +45,7 @@ If you are an undergrad considering what direction to take your studies try to c
 # The PI perspective
 
 The ideal student research project benefits everyone involved: students learn and make their grades, while the research project moves forward and the research group learns from the students.
-Open science projects can approach this ideal, by treating students as collaborators throughout their projects, and having a clear pathway set up for them to contribute.
+Open science projects can approach this ideal, by treating students as collaborators throughout their projects, and having a clear structure set up for them to engage and contribute.
 The key opportunity is that doing open science takes time, and it is hard to find others willing to climb the "mountain of engagement" from learning about a project to participating, collaborating, and leading.
 Students whose research project intersects with a larger open science project have the time and incentive to engage.
 
@@ -56,32 +56,39 @@ The mutual benefits are clearer if students test features that are both accessib
 For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, especially the quirks of different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
 For riboviz, adapting to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design student projects with running new datasets as an early objective.
 
-We prepare undergraduates who are bioinformatics novices for "expert" data wrangling tasks by having a pathway from novice to expert.
-We've learned that students can start by installing and running riboviz on a small built-in "vignette" dataset, overcoming installation problems.
+We prepare undergraduates who are bioinformatics novices for "expert" data wrangling tasks by having a pathway from novice to expert, inspired by The Carpentries approach to data skills training.
+For riboviz, we've learned that students can start by installing the software and running a small built-in "vignette" dataset, overcoming installation problems.
 Then they can run on an existing full-size dataset, overcoming problems with data size and navigating directory structures.
 Next they work to analyse a dataset from an existing annotation, learning about common bioinformatics tasks such as adapter removal in sequencing analysis.
-Then they are ready to tackle adapting a dataset with a new genome annotation, an infuriantly unpredictable process in real-world bioinformatics.
+Then they are ready to tackle adapting a dataset with a new genome annotation, an infuriatingly unpredictable process in real-world bioinformatics.
 Other projects can similarly develop expertise through a series of authentic research tasks.
 
 The documentation of the larger project is critical to students being able to get started, and students can also help to improve  documentation.
 We have learned that this takes care and attention.
 Whatever state the existing documentation is in, if students are confused about or stuck on something that can indicate a need for better documentation.
 If students don't find the relevant documentation, do you need a better contents page (that they can draft)?
-If students don't understand an output file, do you need a better description (that they can help draft)?
+If students don't understand an output file, do you need a better description (that they can draft)?
 If students don't know how to contribute code, do you need a better developer guide (that they can draft)?
-Writing documentation may not "feel like research", so you may need explain its value so that students are motivated to contribute.
+Writing documentation may not "feel like research", so you may need to explain its value so that students are motivated to contribute.
 Good documentation is essential to help researchers use and think clearly about using software, and the same is true of written experimental protocols.
 Writing documentation is excellent preparation for writing up a dissertation, especially the methods section, so benefits the student.
 
 Working open means routinely sharing work, which can be difficult for students who may feel intimidated or anxious about being judged by others.
+These feelings do not reflect reality, as experienced bioinformaticians know that no-one else cares how you feel about your code, or even that you are the person who wrote it.
+Colleagues and users mostly care if the code works, is readable, and has documentation that explains what it does.
+Open science practices of collaboratively reviewing and improving work, such as single-function chunks of code and sections of documentation, can demonstrate this important life lesson.
+Students can learn to see their work how other people see it, in small steps, ultimately producing better quality work and lowering stress levels.
+
 Sharing work can be made less threatening with clear expectations, structure, and role modeling.
 Be clear that you expect students to ask for help, for example that if they have been stuck on something for more than 2 hours then they should ask for help.
 Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the github issue ticket for the particular task.
 Crucially, the expectations and structure must be set at the beginning of the project and their use modeled throughout.
-Be prepared to repeat yourself, in riboviz, we often ask: "did you update the issue ticket?"
-Then the conduct of the project is open, whole team shares requests for help and reports on progress, students see other team members including the PI role-model asking and sharing.
-Having these open discussions about the project then lowers the threshold for sharing technical contributions like code and data analysis.
-Still, project students may initially too intimidated by the PI to ask openly and the PI may be too busy to help promptly, so it's important to have direct daily contact with another team member to triage problems and reassure the student.
+Be prepared to repeat yourself: in riboviz, we often ask "did you update the issue ticket?"
+When the conduct of the project is open, the whole team shares requests for help and reports on progress, and students experience other team members including the PI role-model asking and sharing.
+Openly tracking progress can lower the "intimidation threshold" for sharing technical contributions like code and data analysis.
+Emma and Sophie's project start coincided with a week-long hackathon with our transatlantic collaborators, with daily meetings where we discussed progress and commented on each other's code, which was an intense way to get started.
+We will do that again, because the very beginning of the project is the best time to demonstrate how open science works.
+Still, project students may be too intimidated by the PI's status to ask openly, and the PI may be too busy to help promptly, so it's important to have direct daily contact with another team member to triage problems and reassure the student.
 This team member needs to ask, when appropriate, "did you update the issue ticket?"
 
 Explaining how credit is assigned is also crucial.
@@ -89,24 +96,27 @@ Usually, the project report or write-up determines most of the student's grade.
 The grade then doesn't depend directly on any code they contribute or results that they obtain.
 Open science projects resemble other group projects, such as the IGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and marked individually.
 By contrast, students' work during the research project can focus on learning, contributing, and building towards results.
-Open science project then provides the formative assessment of student progress in an authentic research setting.
+Feedback in an open science project provides formative assessment of student progress in an authentic research setting.
+
 Authentic contributions within the project can lead to authentic credit, including co-authorship on papers and code contributions on github that are visible to potential employers.
+Our riboviz 2 preprint includes as co-authors 5 undergraduate or MSc students from Edinburgh, as well as 2 more from US collaborators.
+These co-authorships have been earned by adding new datasets, fixing bugs in code, adding new features, and improving documentation.
+Students also learn about the process of writing a collaborative paper by attending team manuscript meetings and contributing to the draft.
 
-(where does this next bit go?)
-Other people care if the code works, is readable, and has documentation that explains what it does.
-This is an important life lesson as students learn to see their work how other people see it, and ultimately produces better quality work.
+We have made plenty of mistakes.
+Students have spent weeks stuck on issues that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
+These mistakes aren't unique to open science projects.
+Students doing their first experimental research projects can also get stuck, spend time on activities unimportant to the project, and drag their feet on asking for help.
+Most trainees need supervision on how to break a project down into small steps, in the new skills involved in executing those small steps, and in documentation and communication within a research group.
+So, lessons learned here transfer to other kinds of teaching and to supervision of trainees at all career stages.
+Open science projects such as riboviz emphasise the important of sharing and documentation, because that is an explicit outcome of the work rather than "just" a necessary stage of the pathway to results.
 
-
-Each student may have a very different idea from you about what it means 
-Set expectations explicitly.
-All these points apply to other projects and supervision in general.
-
-Finally, it is fun.
-Lucky to have good students.
-Amazed at what they can accomplish.
+Finally, working on collaborative open science projects is fun.
+At Edinburgh, we are lucky to have excellent students who are eager to go from programming novices to making substantial contributions to an open-source scientific project, within only a few months.
+I am amazed at what our students accomplish when treated as colleagues and given structured support to succeed.
 
 # PI's top takeaways
 
-- Open science projects 
+- Open science in student research projects can benefit everyone involved
 - Plan a path from novice to expert, using authentic research tasks
-- 
+- Set clear expectations and structure for how to engage with the larger project, and role-model the behaviour you want
