@@ -9,5 +9,11 @@ It aims to address:
 * What was fun or easy
 * What was hard or less fun
 * What we learned
-* What adive we would give to others
+* What advice we would give to others
+
+Authors:
+* [Edward Wallace](https://github.com/ewallace)
+* [Emma MacKenzie](https://github.com/3mma-mack)
+* [Flic Anderson](https://github.com/FlicAnderson)
+* [Sophie Winterbourne](https://github.com/swinterbourne)
 
