@@ -74,11 +74,27 @@ Good documentation is essential to help researchers use and think clearly about 
 Writing documentation is excellent preparation for writing up a dissertation, especially the methods section, so benefits the student.
 
 Working open means routinely sharing work, which can be difficult for students who may feel intimidated or anxious about being judged by others.
+Sharing work can be made less threatening with clear expectations, structure, and role modeling.
+Be clear that you expect students to ask for help, for example that if they have been stuck on something for more than 2 hours then they should ask for help.
+Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the github issue ticket for the particular task.
+Crucially, the expectations and structure must be set at the beginning of the project and their use modeled throughout.
+Be prepared to repeat yourself, in riboviz, we often ask: "did you update the issue ticket?"
+Then the conduct of the project is open, whole team shares requests for help and reports on progress, students see other team members including the PI role-model asking and sharing.
+Having these open discussions about the project then lowers the threshold for sharing technical contributions like code and data analysis.
+Still, project students may initially too intimidated by the PI to ask openly and the PI may be too busy to help promptly, so it's important to have direct daily contact with another team member to triage problems and reassure the student.
+This team member needs to ask, when appropriate, "did you update the issue ticket?"
 
-Other people care if it works, is readable, and has documentation that explains what it does.
+Explaining how credit is assigned is also crucial.
+Usually, the project report or write-up determines most of the student's grade.
+The grade then doesn't depend directly on any code they contribute or results that they obtain.
+Open science projects resemble other group projects, such as the IGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and marked individually.
+By contrast, students' work during the research project can focus on learning, contributing, and building towards results.
+Open science project then provides the formative assessment of student progress in an authentic research setting.
+Authentic contributions within the project can lead to authentic credit, including co-authorship on papers and code contributions on github that are visible to potential employers.
+
+(where does this next bit go?)
+Other people care if the code works, is readable, and has documentation that explains what it does.
 This is an important life lesson as students learn to see their work how other people see it, and ultimately produces better quality work.
-
-Research contribution and co-authorship.
 
 
 Each student may have a very different idea from you about what it means 
