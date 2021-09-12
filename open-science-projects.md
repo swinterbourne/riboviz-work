@@ -54,24 +54,43 @@ Users test features, read documentation, find bugs, and engaged users suggest im
 Project students volunteered to do the project, then their grade depends on it, so they are highly motivated users.
 The mutual benefits are clearer if students test features that are both accessible to them and important to the project.
 For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, especially the quirks of different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
-Adapting riboviz to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design projects with running new datasets as an early objective.
+For riboviz, adapting to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design student projects with running new datasets as an early objective.
 
 We prepare undergraduates who are bioinformatics novices for "expert" data wrangling tasks by having a pathway from novice to expert.
 We've learned that students can start by installing and running riboviz on a small built-in "vignette" dataset, overcoming installation problems.
 Then they can run on an existing full-size dataset, overcoming problems with data size and navigating directory structures.
 Next they work to analyse a dataset from an existing annotation, learning about common bioinformatics tasks such as adapter removal in sequencing analysis.
 Then they are ready to tackle adapting a dataset with a new genome annotation, an infuriantly unpredictable process in real-world bioinformatics.
-Other projects can similarly develop expertise through a thoughtful series of authentic research tasks.
+Other projects can similarly develop expertise through a series of authentic research tasks.
 
-Documentation..
-Whatever state the existing documentation is in, the...
+The documentation of the larger project is critical to students being able to get started, and students can also help to improve  documentation.
+We have learned that this takes care and attention.
+Whatever state the existing documentation is in, if students are confused about or stuck on something that can indicate a need for better documentation.
+If students don't find the relevant documentation, do you need a better contents page (that they can draft)?
+If students don't understand an output file, do you need a better description (that they can help draft)?
+If students don't know how to contribute code, do you need a better developer guide (that they can draft)?
+Writing documentation may not "feel like research", so you may need explain its value so that students are motivated to contribute.
+Good documentation is essential to help researchers use and think clearly about using software, and the same is true of written experimental protocols.
+Writing documentation is excellent preparation for writing up a dissertation, especially the methods section, so benefits the student.
 
-Working open means routinely learning to see your work how other people see it.
-Nobody else cares how you feel about your code.
-This is an important life lesson?
+Working open means routinely sharing work, which can be difficult for students who may feel intimidated or anxious about being judged by others.
+
+Other people care if it works, is readable, and has documentation that explains what it does.
+This is an important life lesson as students learn to see their work how other people see it, and ultimately produces better quality work.
 
 Research contribution and co-authorship.
+
+
+Each student may have a very different idea from you about what it means 
+Set expectations explicitly.
+All these points apply to other projects and supervision in general.
 
 Finally, it is fun.
 Lucky to have good students.
 Amazed at what they can accomplish.
+
+# PI's top takeaways
+
+- Open science projects 
+- Plan a path from novice to expert, using authentic research tasks
+- 
