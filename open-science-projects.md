@@ -6,7 +6,7 @@
 # The undergraduate perspective
 
 ## How it differed from a traditional project
-A traditional project, in theory, would involve designing and attempting an experiment, or scouring literature with the goal of answering a research question. This would potentially involve working with ‘trade secrets’ and would likely end with the submission of the final project. Any impact on the hosting lab, for example contributions leading to a publication, would not be visible to those outside the lab until a publication is made, which may be long after the student has left. Our project involved jumping into a team working on the riboviz data analysis pipeline, and contributing to the overall development of riboviz in the form of adding new datasets, testing the pipeline, and commenting on its usability from the perspective of complete novices. Our work is documented on GitHub and is publicly accessible, providing proof of our contributions to the overarching project in addition to our own projects. As our work is publicly accessible it provides concrete evidence of our abilities which can be accessed by potential employers. This instant visibility of our work would likely not be available had we completed a traditional project.   
+A traditional project, in theory, would involve designing and attempting an experiment, or scouring literature with the goal of answering a research question. This would potentially involve working with ‘trade secrets’ and would likely end with the submission of the final project. Any impact on the hosting lab, for example contributions leading to a publication, would not be visible to those outside the lab until a publication is made, which may be long after the student has left. Our project involved jumping into a team working on the riboviz data analysis pipeline, and contributing to the overall development of riboviz in the form of adding new datasets, testing the pipeline, and commenting on its usability from the perspective of complete novices. Our work is documented on GitHub and is publicly accessible, providing proof of our contributions to the overarching project in addition to our own projects. As our work is publicly accessible it provides concrete evidence of our abilities which can be accessed by potential employers. This instant visibility of our work would likely not be available had we completed a traditional project.
 
 Compared to a traditional project, it is possible that contact hours were different. The contact hours of an undergraduate project depend heavily on the type of project – with a lab-based project requiring lots of contact hours, with students being in the lab with their supervisor. Alternatively for a literature-based research project, or a community outreach project, there would likely be fewer contact hours, as the student would require more guidance rather than constant supervision. We did not have any in-person contact hours. This was partially due to the covid pandemic, but also due to the project being completely computer based. However, we were able to attend regular meetings with multiple labs, or with our supervisors, and we posted regular updates on the lab [Slack](https://slack.com/intl/en-gb/) channel, using the Standup Report method, to keep our supervisors updated on our progress. This was supplemented by issue tickets and commits on GitHub which our supervisors were able to see and comment on. However, the cost of a virtual computer-based project is that we potentially missed out on improving and gaining new practical lab skills. 
 
@@ -65,7 +65,7 @@ Next they work to analyse a dataset from an existing annotation, learning about 
 Then they are ready to tackle adapting a dataset with a new genome annotation, an infuriatingly unpredictable process in real-world bioinformatics.
 Other projects can similarly develop expertise through a series of authentic research tasks of increasing complexity.
 
-The documentation of the larger project is critical to students being able to get started, and students can also help to improve  documentation.
+The documentation of the larger project is critical to students being able to get started, and students can also help to improve documentation.
 We have learned that this takes care and attention.
 Whatever state the existing documentation is in, students being confused about or stuck on something can indicate a need for better documentation.
 If students don't find the relevant documentation, do you need a better contents page (that they can draft)?
@@ -85,7 +85,7 @@ Students can learn to see their work how other people see it, in small steps, ul
 
 Sharing work can be made less threatening with clear expectations, structure, and role modeling.
 Be clear that you expect students to ask for help, for example that if they have been stuck on something for more than 2 hours then they should ask for help.
-Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the github issue ticket for the particular task.
+Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the GitHub issue ticket for the particular task.
 Crucially, the expectations and structure must be set at the beginning of the project and their use modeled throughout.
 Be prepared to repeat yourself: in riboviz, we often ask "did you update the issue ticket?"
 When the conduct of the project is open, the whole team shares requests for help and reports on progress, and students experience other team members including the PI role-model asking and sharing.
@@ -102,7 +102,7 @@ Open science projects resemble other group projects, such as the IGEM-affiliated
 By contrast, students' work during the research project can focus on learning, contributing, and building towards results.
 Feedback in an open science project provides formative assessment of student progress in an authentic research setting.
 
-Authentic contributions within the project can lead to authentic credit, including co-authorship on papers and code contributions on github that are visible to potential employers.
+Authentic contributions within the project can lead to authentic credit, including co-authorship on papers and code contributions on GitHub that are visible to potential employers.
 Our riboviz 2 preprint includes as co-authors 5 undergraduate or MSc students from Edinburgh, as well as 2 more from US collaborators.
 These co-authorships have been earned by adding new datasets, fixing bugs in code, adding new features, and improving documentation.
 Students also learn about the process of writing a collaborative paper by attending team manuscript meetings and contributing to the draft.
@@ -115,7 +115,7 @@ These sorts of mistakes aren't unique to open science projects.
 Students doing their first experimental research projects can also get stuck, spend time on activities unimportant to the project, and drag their feet on asking for help.
 Most trainees need supervision on how to break a project down into small steps, in the new skills involved in executing those small steps, and in documentation and communication within a research group.
 So, lessons learned here transfer to other kinds of teaching and to supervision of trainees at all career stages.
-Open science projects such as riboviz emphasise the important of sharing and documentation, because that is an explicit outcome of the work rather than "just" a necessary stage of the pathway to results.
+Open science projects such as riboviz emphasise the role of sharing and documentation, because that is an explicit outcome of the work rather than "just" a necessary stage of the pathway to results.
 
 Finally, working on collaborative open science projects is fun.
 At Edinburgh, we are lucky to have excellent students who are eager to go from programming novices to making substantial contributions to an open-source scientific project, within only a few months.
