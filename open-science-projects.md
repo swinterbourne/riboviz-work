@@ -51,10 +51,10 @@ Students whose research project intersects with a larger open science project ha
 
 Open-source software, like riboviz, needs users! 
 Users test features, read documentation, find bugs, and engaged users suggest improvements.
-Project students volunteered to do the project, then they want to learn and to earn good grades, so they are highly motivated users.
-The mutual benefits are clearest when students test features that are both accessible to them and important to the project.
-For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, especially the quirks of different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
-For riboviz, adapting to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to design student projects with running new datasets as an early objective.
+Project students are highly motivated users because they volunteered to do the project, they want to learn and to earn good grades.
+The mutual benefits are clearest when students, as users, test features that are both accessible to them and important to the project.
+For example, bioinformatics workflows have problems when adapted to new datasets with different quirks, such as different genome annotations differing in features (e.g. introns, UTRs) and format (e.g. attribution fields in a gff file).
+For riboviz, adapting to new datasets and organisms was a sticking point, and making this easier was important to the project's success, so we learned to set running new datasets as an early objective for student projects.
 
 ## The importance of a structured pathway forward
 
