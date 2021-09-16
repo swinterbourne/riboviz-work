@@ -89,7 +89,7 @@ As their day-to-day supervisor I've probably benefited most from the experience 
 
 As a result of hosting these open science undergraduate projects, riboviz has improved significantly across a whole range of measures, and our whole team has really enjoyed the experience of having students working with us. With each cohort I've been involved with, I'm more convinced that open science projects and open software tools make a powerful combination that benefit students and research groups equally.
 
-# Early career supervisor's top takeaways
+# Day-to-day supervisor's top takeaways
 
 - Familiarise students with tools early & use them often: investing the time early on gives plenty of time for them (and you) to realise why these are time-savers (and often sanity-savers) later on in a project!  
 - Ensure that you're visibly and frequently asking questions of colleagues, seeking help and sharing ideas: this makes it far less intimidating for your students to do the same with you, and will help avoid some misunderstandings, miscommunications and mistakes. Issue tickets and slack are great for this!  
