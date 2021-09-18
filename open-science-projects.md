@@ -6,10 +6,9 @@ Open science can also describe openness within a research group where all partic
 These ideas can be applied to all aspects of science, from large research consortia to undergraduate projects.
 With great accessibility comes greater reproducibility, leading to better code quality and better research.
 
-This article describes the benefits of taking an open science in student research projects, focused on undergraduate level.
-We describe what we have learned and gained from taking an open science approach from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
+Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
-riboviz is an example of an open software as all of the code required to run it is accessible on GitHub, along with information on errors and software developments documented in issue tickets.
+riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, along with information on errors and software developments documented in issue tickets.
 riboviz also takes an open science approach in that all team members can see and contribute to all work in progress.
 
 # The undergraduate perspective
