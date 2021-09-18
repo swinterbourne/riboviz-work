@@ -1,14 +1,14 @@
 # The benefits of an open science approach in student research projects.
 
-## What is open science?
-[UNESCO](https://en.unesco.org/science-sustainable-future/open-science) defines open-science as an idea "to allow scientific information, data and outputs to be more widely accessible (Open Access) and more reliably harnessed (Open Data) with the active engagement of all the stakeholders (Open to Society)".
+## Abstract
+Open science is the idea "to allow scientific information, data and outputs to be more widely accessible (Open Access) and more reliably harnessed (Open Data) with the active engagement of all the stakeholders (Open to Society)".
 Open science can also describe openness within a research group where all participants share their data, code, ideas, and feedback. 
-These ideas of open science can be applied to all aspects of science, from large research consortia to undergraduate projects.
-With great accessibility comes greater reproducibility, leading to [better research, better code quality, and better reputations for the scientists involved](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7).
+These ideas can be applied to all aspects of science, from large research consortia to undergraduate projects.
+With great accessibility comes greater reproducibility, leading to better code quality and better research.
 
-This article describes the benefits of taking an open science in student research projects, focused on undergraduate through to masters or PhD-rotation level.
+This article describes the benefits of taking an open science in student research projects, focused on undergraduate level.
 We describe what we have learned and gained from taking an open science approach from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
-The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, [riboviz](https://github.com/riboviz/riboviz) to analyse translation dynamics.
+The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
 riboviz is an example of an open software as all of the code required to run it is accessible on GitHub, along with information on errors and software developments documented in issue tickets.
 riboviz also takes an open science approach in that all team members can see and contribute to all work in progress.
 
