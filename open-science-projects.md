@@ -1,7 +1,15 @@
-# Open science as an undergraduate.
+# The benefits of an open science approach in student research projects.
 
-## What is open science
-[UNESCO](https://en.unesco.org/science-sustainable-future/open-science) defines open-science as an idea "to allow scientific information, data and outputs to be more widely accessible (Open Access) and more reliably harnessed (Open Data) with the active engagement of all the stakeholders (Open to Society)". This idea of accessible research can be applied to all aspects of science, from highly funded projects to undergraduate projects. And with great accessibility comes greater reproducibility. In the long run this leads to better research and code quality, as more people are able to check procedures and results. The undergraduate research project described in this article involved working with the data analysis pipeline for ribosome profiling data, [riboviz](https://github.com/riboviz/riboviz) to analyse translation dynamics in two yeast species, _Saccharomyces cereviciae_ and _Schizosaccaromyces pombe_. riboviz is an example of an open software as all of the code required to run it is accessible on GitHub, along with information on errors and software developments documented in issue tickets.
+## Abstract
+Open science is the idea "to allow scientific information, data and outputs to be more widely accessible (Open Access) and more reliably harnessed (Open Data) with the active engagement of all the stakeholders (Open to Society)".
+Open science can also describe openness within a research group where all participants share their data, code, ideas, and feedback. 
+These ideas can be applied to all aspects of science, from large research consortia to undergraduate projects.
+With great accessibility comes greater reproducibility, leading to better code quality and better research.
+
+Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
+The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
+riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, along with information on errors and software developments documented in issue tickets.
+riboviz also takes an open science approach in that all team members can see and contribute to all work in progress.
 
 # The undergraduate perspective
 
@@ -33,17 +41,17 @@ To complete our projects we needed to be able to confidently use the command lin
 
 The most important step of the project was learning how to use the data analysis pipeline [riboviz](https://github.com/riboviz/riboviz). Fortunately, the pipeline is reasonably well documented which made the experience slightly smoother. We were able to provide feedback on documentation while we were learning how to run the pipeline, and contributed to the improvement of user documentation. Time and practice meant that by the end of the project we were confidently running datasets through riboviz and writing our own visualisation code. The experience highlighted how important it is to document the use of scripts and code, which means we will be able to write better code in the future.
 
-## Impact of covid
-We chose our projects in September 2020, then worked on them full time from January to May 2021, during the COVID19 pandemic. All projects that were offered had to be adapted, as lab-based projects were not feasible during the constantly changing restrictions that came throughout 2020 and 2021. This meant disruptions to planned lab-based projects. Luckily the riboviz project was designed to be a computer based project, meaning we were able to work from home effectively, with as little disruption as possible. Sadly, during our project we never met anyone from the lab in person, which could have left us feeling extremely isolated. Fortunately, the lab was very welcoming, allowing us to attend all meetings and journal clubs. The open-science nature of the project came with the social benefit of being able to enthusiastically discuss the project with family and friends, which was extremely helpful in these times of working from home and lockdowns, as the project was the main focus of our lives for many months.
+## Impact of COVID-19
+We chose our projects in September 2020, then worked on them full time from January to May 2021, during the COVID-19 pandemic. All projects that were offered had to be adapted, as lab-based projects were not feasible during the constantly changing restrictions that came throughout 2020 and 2021. This meant disruptions to planned lab-based projects. Luckily the riboviz project was designed to be a computer based project, meaning we were able to work from home effectively, with as little disruption as possible. Sadly, during our project we never met anyone from the lab in person, which could have left us feeling extremely isolated. Fortunately, the lab was very welcoming, allowing us to attend all meetings and journal clubs. The open-science nature of the project came with the social benefit of being able to enthusiastically discuss the project with family and friends, which was extremely helpful in these times of working from home and lockdowns, as the project was the main focus of our lives for many months.
 
 ## Advice for undergrads selecting their projects
 If you are an undergrad considering what direction to take your studies try to complete an undergraduate project in a field you are considering entering into, even if you have no prior experience. I was considering completing an MSc in bioinformatics and therefore picked a bioinformatics-based project. I found the experience of stepping outside of my comfort zone and into a field where I had little experience daunting but very valuable. The project provided a positive experience and a fantastic learning curve which confirmed my initial interest in the field and allowed me to gain confidence and competence within coding and software.
 
 ## Our top takeaways
--	Being able to access other researchers work helped speed up the project. For example, when trying to create transcriptome annotation files for a new example species, I was able to look at pre-existing code and use it as a starting point for learning which functions and packages could be used. This saved me from starting from scratch and helped guide me
--	It is easier to learn when resources are available to refer back to
+-	Being able to access other researchers work helped speed up the project. For example, when trying to create transcriptome annotation files for a new example species, I was able to look at pre-existing code and use it as a starting point for learning which functions and packages could be used. This saved me from starting from scratch and helped guide me.
+-	It is easier to learn when resources are available to refer back to.
 -	Open-Science is like a group project. Except the world is your group and they won’t affect your grade.
--	Documenting your work helps you, aids others and helps them help you
+-	Documenting your work helps you, aids others and helps them help you.
 
 
 # The day-to-day supervisor perspective
@@ -56,7 +64,6 @@ Supervising undergraduate students working on riboviz-related research projects 
 Having two students joining to pursue projects with riboviz at the same time this year was particularly helpful, as a lot of the instruction and coaching were applicable to both, and meant that there was also an opportunity for peer learning. While not all labs might have capacity to offer multiple projects, I was surprised to find that the increase in supervision time required by two students was much less than expected. Many of the same problems were encountered during both projects and could be solved in one discussion.
 
 Supervising two undergraduate projects at the same time was also unexpectedly valuable in highlighting areas where my instruction, knowledge, or communication skills could be improved: _"When one student doesn't seem to understand, it could go either way. When two students don't seem to understand, the problem probably lies with the communicator!"_ The process has been really helpful in making me re-think how I communicate complex ideas, technical information and scientific concepts, and has contributed significantly to my personal development.
-
 
 ## Open Software Tools & Student Supervision
 Introducing new tools and ideas at the beginning of a new project can always be time consuming initially. But many of the tools used in 'open software' projects such as riboviz lend themselves extremely well to use in a student supervision context, as well as making the task of developing research software easier. I have co-supervised undergraduate students previously where we've introduced concepts such as version control much later in the project timeline, with less success, but this year we took the 'in at the deep end' approach (with floatation aids available in the form of plenty of technical support and helpful and approachable colleagues).
@@ -89,7 +96,7 @@ As their day-to-day supervisor I've probably benefited most from the experience 
 
 As a result of hosting these open science undergraduate projects, riboviz has improved significantly across a whole range of measures, and our whole team has really enjoyed the experience of having students working with us. With each cohort I've been involved with, I'm more convinced that open science projects and open software tools make a powerful combination that benefit students and research groups equally.
 
-# Day-to-day supervisor's top takeaways
+## Day-to-day supervisor's top takeaways
 
 - Familiarise students with tools early & use them often: investing the time early on gives plenty of time for them (and you) to realise why these are time-savers (and often sanity-savers) later on in a project!  
 - Ensure that you're visibly and frequently asking questions of colleagues, seeking help and sharing ideas: this makes it far less intimidating for your students to do the same with you, and will help avoid some misunderstandings, miscommunications and mistakes. Issue tickets and slack are great for this!  
@@ -176,11 +183,11 @@ Open science projects such as riboviz emphasise the role of sharing and document
 Finally, working on collaborative open science projects is fun.
 At Edinburgh, we are lucky to have excellent students who are eager to go from programming novices to making substantial contributions to an open-source scientific project, within only a few months.
 They can write excellent project reports and earn first-class grades.
-It's satisfying to see them learn hard skills and to grow in confidence as scientists and coders.
+It's satisfying to see them learn hard skills and to grow in confidence as scientists and programmers.
 I am amazed at what our students accomplish when treated as colleagues and given structured support to succeed.
 
-# PI's top takeaways
+## PI's top takeaways
 
-- Open science in student research projects can benefit everyone involved
-- Plan a path from novice to expert, using authentic research tasks
-- Set clear expectations and structure for how to engage with the larger project, and role-model the behaviour you want
+- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group.
+- Plan a path from novice to expert for the students, using authentic research tasks.
+- Set clear expectations and structure for how to engage with the larger project, and role-model the behaviour you want.
