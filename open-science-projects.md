@@ -196,4 +196,7 @@ I am amazed at what our students accomplish when treated as colleagues and given
 - UNESCO on open science - https://en.unesco.org/science-sustainable-future/open-science
 - Markowetz, F. (2015) Five selfish reasons to work reproducibly. _Genome Biol_ 16, 274. DOI: https://doi.org/10.1186/s13059-015-0850-7
 - Cope, A., Anderson, F., Favate, J. et al. (2021) riboviz 2: A flexible and robust ribosome profiling data analysis and visualization workflow. _biorxiv_ DOI: https://doi.org/10.1101/2021.05.14.443910
-
+- Wallace, E., Anderson, F., Kavoussanakis, K. et al. (2021) riboviz: software for analysis and visualization of ribosome profiling datasets. _figshare._ Software. DOI: https://doi.org/10.6084/m9.figshare.12624200
+- For iGEM MSc projects - https://igem.org/Main_Page
+- For Carpentries workshops - https://carpentries.org/
+- For "Mountain of Engagement - Sharan, M., Ye, H., Yehudi, Y. et al. (2021) OLS-3 Cohort Talks and Transcripts (v1.0). _Zenodo._ DOI: https://doi.org/10.5281/zenodo.5071349
