@@ -215,6 +215,7 @@ _Edward Wallace_
 
 _Emma MacKenzie_
 
+Emma MacKenzie is currently studying a Masters in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future. 
 
 _Flic Anderson_
 
