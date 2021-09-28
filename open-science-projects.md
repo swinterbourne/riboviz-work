@@ -105,11 +105,10 @@ As a result of hosting these open science undergraduate projects, riboviz has im
 
 ## Day-to-day supervisor's top takeaways
 
-- Familiarise students with tools early & use them often: investing the time early on gives plenty of time for them (and you) to realise why these are time-savers (and often sanity-savers) later on in a project!  
-- Ensure that you're visibly and frequently asking questions of colleagues, seeking help and sharing ideas: this makes it far less intimidating for your students to do the same with you, and will help avoid some misunderstandings, miscommunications and mistakes. Issue tickets and slack are great for this!  
-- Plan something to work on or read & discuss when the servers / vital equipment is down: this will happen, and possibly more than once. When our compute cluster went down early on, we 'lost' a week of project time, because we hadn't planned any alternative project tasks and lots of subsequent tasks relied on the cluster. In this case, the students were able to work on their programming skills and read papers, but in future I'd plan for this eventuality!  
-- Identifying alternative project tasks is also great for when something isn't working, but you don't have any more supervision time to help troubleshoot until later in the week. This stops students getting stuck on one thing and not being able to progress at all without help.
-- Remember that a research group environment is quite a jump from what students might be used to - project meetings, lab talk presentations and zoom interactions between PIs and research staff are probably a totally different world to lectures and tutorials. Include students in group and project meetings early on to help them acclimatise, and remember that it might be quite a culture shock to start with!
+- Plan something to work on or read & discuss when the servers / vital equipment is down or something isn't working: this will happen, and possibly more than once! Have alternative tasks in mind.
+- Familiarise students with tools early & use them often: investing time early on gives plenty of time for them (and you) to realise why these are time-savers (and often sanity-savers) later on in a project!
+- Include students in group and project meetings early on to help them acclimatise to the research group environment, and remember that it might be quite a culture shock!
+- Visibly and frequently ask questions, seek help and share ideas: this makes it less intimidating for students to do the same, and will help avoid misunderstandings, miscommunications and mistakes.
 
 
 # The PI perspective
@@ -219,7 +218,7 @@ _Emma MacKenzie_
 
 _Flic Anderson_
 
-Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. Flic is part of the main development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of the [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic has also been involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools. 
+Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. Flic is part of the main development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of the [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic has also been involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools.
 
 [@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
 
