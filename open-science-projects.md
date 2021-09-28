@@ -15,8 +15,12 @@ With great accessibility comes greater reproducibility, leading to better code q
 
 Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
-riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, a website where software, code and files can be hosted online. These files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control. Information on errors and developments to riboviz are also documented on GitHub in the form of issue tickets, which are short forums where users can discuss and provide updates on any problems they run into.
-riboviz also takes an open science approach in that all team members can see and contribute to all work in progress. 
+riboviz is an example of open scientific software as all of the code is openly available.
+riboviz also takes an open science approach in that all team members can see and contribute to all work in progress, collaborating across research groups in the UK and USA.
+We host riboviz on GitHub, a website for software, code, documentation, and collaboration.
+Files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control.
+Discussions on errors, new features, and other specific issues for riboviz, take place in small forums on GitHub called "issue tickets".
+
 
 # The undergraduate perspective
 
