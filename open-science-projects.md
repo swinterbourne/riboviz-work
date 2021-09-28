@@ -208,3 +208,20 @@ I am amazed at what our students accomplish when treated as colleagues and given
 - The Carpentries, organisation and materials teaching coding skills to researcher - https://carpentries.org/
 - For "Mountain of Engagement - Sharan, M., Ye, H., Yehudi, Y. et al. (2021) OLS-3 Cohort Talks and Transcripts (v1.0). _Zenodo._ DOI: https://doi.org/10.5281/zenodo.5071349
 - Ten arguments against Open Science that you can win - https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win
+
+## Authors
+
+_Edward Wallace_
+
+
+_Emma MacKenzie_
+
+
+_Flic Anderson_
+
+Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. Flic is part of the main development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of the [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic has also been involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools. 
+
+[@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
+
+
+_Sophie Winterbourne_
