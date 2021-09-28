@@ -57,9 +57,8 @@ If you are an undergrad considering what direction to take your studies try to c
 ## Our top takeaways
 -	Being able to access other researchers work helped speed up the project. For example, when trying to create transcriptome annotation files for a new example species, I was able to look at pre-existing code and use it as a starting point for learning which functions and packages could be used. This saved me from starting from scratch and helped guide me.
 -	It is easier to learn when resources are available to refer back to.
--	Open science is like a group project. Except the world is your group and they won’t affect your grade.
 -	Documenting your work helps you, aids others and helps them help you.
-
+-       Open science is like a group project. Except the world is your group and they won’t affect your grade.
 
 # The day-to-day supervisor perspective
 
