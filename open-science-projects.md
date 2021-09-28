@@ -42,7 +42,7 @@ It did feel like we were dropped in the deep end as a ‘hackathon’ took place
 
 Overall, the project gave us some valuable skills for further study and working with open science. We learned to prioritise tasks based on their importance within the group rather than for our individual needs. We also gained better debugging skills, knowing where to look in documentation and on google to help us solve problems.
 
-Our communication skills were greatly improved by interacting with our supervisors and the lab group in the course of the project through our Stand-Up Reports and issue tickets on GitHub. The importance of communicating progress and obstacles frequently in a precise and informative manner, especially as all communication occurred virtually, quickly became obvious to avoid confusion and to get help quickly. This development is clearer now that we occasionally return to issue tickets written in the early stages of the project, and curse at our past selves for documenting the problem, and more importantly the solution, so poorly.
+Our communication skills were greatly improved by interacting with our supervisors and the lab group in the course of the project through our Stand-Up Reports and issue tickets on GitHub. The importance of communicating progress and obstacles frequently in a precise and informative manner, especially as all communication occurred virtually, quickly became obvious to avoid confusion and get help more quickly. For example, a prolonged delay was caused by a failed dataset run which could have been avoided if the issue ticket had been updated and detailed sufficiently. This development is clearer now that we occasionally return to issue tickets written in the early stages of the project, and curse at our past selves for documenting the problem, and more importantly the solution, so poorly.
 
 ## How did we learn the tools
 To complete our projects we needed to be able to confidently use the command line, Git, GitHub, the university supercomputer, and the data analysis pipeline riboviz. Early in the project we were given a tutorial on using Git and GitHub by our supervisor, Flic. This was extremely helpful and, as the tutorial materials were stored on GitHub, we were able to refer back to them any time we were feeling lost or confused. We were also pointed in the direction of learning materials produced by The Carpentries team, including a course called ‘The Unix Shell’ which provided a solid understanding of using the command line to navigate and manipulate files. Within the first few weeks of the project, it became clear that we would be unable to run large datasets through the riboviz pipeline on a underpowered personal laptop, so we needed to learn how to remotely access the university’s supercomputer. Using resources provided by the university, we learned how to navigate the supercomputer, submit jobs and run interactive sessions.
@@ -58,9 +58,8 @@ If you are an undergrad considering what direction to take your studies try to c
 ## Our top takeaways
 -	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
 -	It is easier to learn when resources are available to refer back to.
--	Open science is like a group project. Except the world is your group and they won’t affect your grade.
 -	Documenting your work helps you, aids others and helps them help you.
-
+-       Open science is like a group project. Except the world is your group and they won’t affect your grade.
 
 # The day-to-day supervisor perspective
 
@@ -225,3 +224,4 @@ Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in 
 
 
 _Sophie Winterbourne_
+Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assisstant focusing on investigating translation by analysing ribosome profiling data. Email: smwinterbourne@gmail.com
