@@ -55,7 +55,7 @@ We chose our projects in September 2020, then worked on them full time from Janu
 If you are an undergrad considering what direction to take your studies try to complete an undergraduate project in a field you are considering entering into, even if you have no prior experience. I was considering completing an MSc in bioinformatics and therefore picked a bioinformatics-based project. I found the experience of stepping outside of my comfort zone and into a field where I had little experience daunting but very valuable. The project provided a positive experience and a fantastic learning curve which confirmed my initial interest in the field and allowed me to gain confidence and competence within coding and software.
 
 ## Our top takeaways
--	Being able to access other researchers work helped speed up the project. For example, when trying to create transcriptome annotation files for a new example species, I was able to look at pre-existing code and use it as a starting point for learning which functions and packages could be used. This saved me from starting from scratch and helped guide me.
+-	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
 -	It is easier to learn when resources are available to refer back to.
 -	Open-Science is like a group project. Except the world is your group and they won’t affect your grade.
 -	Documenting your work helps you, aids others and helps them help you.
