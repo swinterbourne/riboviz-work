@@ -198,5 +198,6 @@ I am amazed at what our students accomplish when treated as colleagues and given
 - Cope, A., Anderson, F., Favate, J. et al. (2021) riboviz 2: A flexible and robust ribosome profiling data analysis and visualization workflow. _biorxiv_ DOI: https://doi.org/10.1101/2021.05.14.443910
 - Wallace, E., Anderson, F., Kavoussanakis, K. et al. (2021) riboviz: software for analysis and visualization of ribosome profiling datasets. _figshare._ Software. DOI: https://doi.org/10.6084/m9.figshare.12624200
 - For iGEM MSc projects - https://igem.org/Main_Page
-- For Carpentries workshops - https://carpentries.org/
+- The Carpentries, organisation and materials teaching coding skills to researcher - https://carpentries.org/
 - For "Mountain of Engagement - Sharan, M., Ye, H., Yehudi, Y. et al. (2021) OLS-3 Cohort Talks and Transcripts (v1.0). _Zenodo._ DOI: https://doi.org/10.5281/zenodo.5071349
+- Ten arguments against Open Science that you can win - https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win
