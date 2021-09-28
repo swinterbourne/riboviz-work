@@ -211,11 +211,15 @@ I am amazed at what our students accomplish when treated as colleagues and given
 ## Authors
 
 _Edward Wallace_
+Edward Wallace is a Sir Henry Dale Fellow (Group Leader) in the Institute of Cell Biology at the University of Edinburgh, funded by Wellcome and The Royal Society. The group studies how organisms respond to their environment, focusing on molecular mechanisms used by fungi.
+The riboviz project is funded by BBSRC and NSF-BIO, to develop better software tools for understanding protein synthesis and its regulation.
+Alongside his research, Dr. Wallace is an open science advocate and teaches data literacy to scientists, working with The Carpentries and Edinburgh Carpentries.
 
+[@ewallace](https://twitter.com/ewjwallace) on twitter.
 
 _Emma MacKenzie_
 
-Emma MacKenzie is currently studying a Masters in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future. 
+Emma MacKenzie is currently studying for an MSc. in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future. 
 
 _Flic Anderson_
 
@@ -225,4 +229,4 @@ Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in 
 
 
 _Sophie Winterbourne_
-Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assisstant focusing on investigating translation by analysing ribosome profiling data. Email: smwinterbourne@gmail.com
+Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assistant focusing on investigating translation by analysing ribosome profiling data.
