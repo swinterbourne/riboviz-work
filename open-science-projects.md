@@ -16,7 +16,7 @@ With great accessibility comes greater reproducibility, leading to better code q
 Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
 riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, a website where software, code and files can be hosted online. These files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control. Information on errors and developments to riboviz are also documented on GitHub in the form of issue tickets, which are short forums where users can discuss and provide updates on any problems they run into.
-riboviz also takes an open science approach in that all team members can see and contribute to all work in progress. 
+riboviz also takes an open science approach in that all team members can see and contribute to all work in progress.
 
 # The undergraduate perspective
 
@@ -56,7 +56,7 @@ We chose our projects in September 2020, then worked on them full time from Janu
 If you are an undergrad considering what direction to take your studies try to complete an undergraduate project in a field you are considering entering into, even if you have no prior experience. I was considering completing an MSc in bioinformatics and therefore picked a bioinformatics-based project. I found the experience of stepping outside of my comfort zone and into a field where I had little experience daunting but very valuable. The project provided a positive experience and a fantastic learning curve which confirmed my initial interest in the field and allowed me to gain confidence and competence within coding and software.
 
 ## Our top takeaways
--	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
+-	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose.
 -	It is easier to learn when resources are available to refer back to.
 -	Documenting your work helps you, aids others and helps them help you.
 -       Open science is like a group project. Except the world is your group and they won’t affect your grade.
@@ -211,18 +211,22 @@ I am amazed at what our students accomplish when treated as colleagues and given
 ## Authors
 
 _Edward Wallace_
+Edward Wallace is a Sir Henry Dale Fellow (Group Leader) in the Institute of Cell Biology at the University of Edinburgh, funded by Wellcome and The Royal Society. The group studies how organisms respond to their environment, focusing on molecular mechanisms used by fungi.
+The riboviz project is funded by BBSRC and NSF-BIO, to develop better software tools for understanding protein synthesis and its regulation.
+Alongside his research, Dr. Wallace is an open science advocate and teaches data literacy to scientists, working with The Carpentries and Edinburgh Carpentries.
 
+[@ewallace](https://twitter.com/ewjwallace) on twitter.
 
 _Emma MacKenzie_
 
-Emma MacKenzie is currently studying a Masters in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future. 
+Emma MacKenzie is currently studying for an MSc. in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future.
 
 _Flic Anderson_
 
-Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. Flic is part of the main development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of the [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic has also been involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools.
+Felicity 'Flic' Anderson is a Research Assistant in Bioinformatics in the Wallace Lab. Flic is a developer for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic is also involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools. Flic begins a PhD in the use of Software Engineering techniques in Research Software projects in January 2022 with [EPCC](http://www.epcc.ed.ac.uk/).
 
 [@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
 
 
 _Sophie Winterbourne_
-Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assisstant focusing on investigating translation by analysing ribosome profiling data. Email: smwinterbourne@gmail.com
+Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assistant focusing on investigating translation by analysing ribosome profiling data.
