@@ -8,17 +8,17 @@ author:
 ---
 
 ## Abstract
-Open science is the idea "to allow scientific information, data and outputs to be more widely accessible (Open Access) and more reliably harnessed (Open Data) with the active engagement of all the stakeholders (Open to Society)".
-Open science can also describe openness within a research group where all participants share their data, code, ideas, and feedback.
+Open science is the idea of allowing scientific information, data and outputs to be more widely accessible and reusable, with the active engagement of all the stakeholders.
+Open science can also describe openness within a research group where all participants share their data, analysis code, ideas, and feedback.
 These ideas can be applied to all aspects of science, from large research consortia to undergraduate projects.
 With great accessibility comes greater reproducibility, leading to better code quality and better research.
 
-Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the PI or lab head.
+Here we describe what we have learned and gained from taking an open science approach in student research projects, from the perspective of the student, the day-to-day supervisor, and the principal investigator (PI) or research group head.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
 riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, a website where software, code and files can be hosted online. These files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control. Information on errors and developments to riboviz are also documented on GitHub in the form of issue tickets, which are short forums where users can discuss and provide updates on any problems they run into.
 riboviz also takes an open science approach in that all team members can see and contribute to all work in progress. 
 
-# The undergraduate perspective
+# The undergraduate perspective (Emma MacKenzie and Sophie Winterbourne)
 
 ## Freedom to share information and anxiety.
 Being students studying doing a Biotechnology Honours course, there was the potential to work on a variety of projects, with varying levels of openness, including projects working with trade secrets or compounds with therapeutic potential. In a talk prior to picking our projects, we were told a story of an undergraduate who had broken their disclosure agreement, leading to the name of the drug they were working on being released on Twitter. The lab's competitors were able to find it, and this mistake cost the lab a lot of money. The idea of potentially leaking intellectual property caused a lot of anxiety. Working on an open science project removed this risk and this fear.
@@ -53,7 +53,10 @@ The most important step of the project was learning how to use the data analysis
 We chose our projects in September 2020, then worked on them full time from January to May 2021, during the COVID-19 pandemic. All projects that were offered had to be adapted, as lab-based projects were not feasible during the constantly changing restrictions that came throughout 2020 and 2021. This meant disruptions to planned lab-based projects. Luckily the riboviz project was designed to be a computer based project, meaning we were able to work from home effectively, with as little disruption as possible. Sadly, during our project we never met anyone from the lab in person, which could have left us feeling extremely isolated. Fortunately, the lab was very welcoming, allowing us to attend all meetings and journal clubs. The open science nature of the project came with the social benefit of being able to enthusiastically discuss the project with family and friends, which was extremely helpful in these times of working from home and lockdowns, as the project was the main focus of our lives for many months.
 
 ## Advice for undergrads selecting their projects
-If you are an undergrad considering what direction to take your studies try to complete an undergraduate project in a field you are considering entering into, even if you have no prior experience. I was considering completing an MSc in bioinformatics and therefore picked a bioinformatics-based project. I found the experience of stepping outside of my comfort zone and into a field where I had little experience daunting but very valuable. The project provided a positive experience and a fantastic learning curve which confirmed my initial interest in the field and allowed me to gain confidence and competence within coding and software.
+If you are an undergrad considering what direction to take your studies try to complete an undergraduate project in a field you are considering entering into, even if you have no prior experience.
+Both of us were, coincidentally, considering completing an MSc in bioinformatics and therefore picked a bioinformatics-based project.
+We each found the experience of stepping outside of our comfort zone and into an unfamiliar field daunting but very valuable. 
+The project provided a positive experience and a fantastic learning curve which confirmed our initial interest in the field and allowed us to gain confidence and competence within coding and software.
 
 ## Our top takeaways
 -	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
@@ -61,7 +64,7 @@ If you are an undergrad considering what direction to take your studies try to c
 -	Documenting your work helps you, aids others and helps them help you.
 -       Open science is like a group project. Except the world is your group and they won’t affect your grade.
 
-# The day-to-day supervisor perspective
+# The day-to-day supervisor perspective (Flic Anderson)
 
 As an early-stage researcher, it can often be difficult to find opportunities to develop and practice coaching, teaching and supervisory skills alongside making progress on your own workload and helping contribute to the lab's goals. Likewise, as someone heavily involved on the riboviz project as a developer, it often seems like there are so many useful new features or improvements we'd like to add, and never enough time to get them done. Enter: undergraduate open science thesis projects!
 
@@ -111,7 +114,7 @@ As a result of hosting these open science undergraduate projects, riboviz has im
 - Visibly and frequently ask questions, seek help and share ideas: this makes it less intimidating for students to do the same, and will help avoid misunderstandings, miscommunications and mistakes.
 
 
-# The PI perspective
+# The PI perspective (Edward Wallace)
 
 The ideal student research project benefits everyone involved: students learn and make their grades, while the research project moves forward and the research group learns from the students.
 Open science projects can approach this ideal, by treating students as collaborators throughout their projects, and having a clear structure set up for them to engage and contribute.
