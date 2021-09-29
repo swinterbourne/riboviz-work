@@ -21,7 +21,6 @@ We host riboviz on GitHub, a website for software, code, documentation, and coll
 Files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control.
 Discussions on errors, new features, and other specific issues for riboviz, take place in small forums on GitHub called "issue tickets".
 
-
 # The undergraduate perspective
 
 ## Freedom to share information and anxiety.
@@ -204,9 +203,11 @@ I am amazed at what our students accomplish when treated as colleagues and given
 
 ## PI's top takeaways
 
-- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group.
-- Plan a path from novice to expert for the students, using authentic research tasks.
-- Set clear expectations and structure for how to engage with the larger project, and role-model the behaviour you want.
+- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group. Project students have both time and motivation to contribute, and can get credit for their contributions to code, documentation, and publications.
+- Plan a path from novice to expert for the students, using authentic research tasks. Structuring this path so the next task is achievable helps to build confidence and skills.
+- Set clear expectations and structure for how students can engage with the larger project, and role-model the behaviour you want. This helps to overcome the "intimidation threshold" of openly sharing work.
+- Offering related projects over subsequent years helps to build on previous work and experience.
+
 
 ## Further Reading
 - UNESCO on open science - https://en.unesco.org/science-sustainable-future/open-science
