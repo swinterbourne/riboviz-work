@@ -15,8 +15,11 @@ With great accessibility comes greater reproducibility, leading to better code q
 
 Here we describe what we have learned and gained from taking an open science approach in undergraduate and masters student research projects, from the perspective of the student, the day-to-day supervisor, and the principal investigator (PI) or research group head.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
-riboviz is an example of open scientific software as all of the code required to run it is accessible on GitHub, a website where software, code and files can be hosted online. These files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control. Information on errors and developments to riboviz are also documented on GitHub in the form of issue tickets, which are short forums where users can discuss and provide updates on any problems they run into.
-riboviz also takes an open science approach in that all team members can see and contribute to all work in progress. 
+riboviz is an example of open scientific software as all of the code is openly available.
+riboviz also takes an open science approach in that all team members can see and contribute to all work in progress, collaborating across research groups in the UK and USA.
+We host riboviz on GitHub, a website for software, code, documentation, and collaboration.
+Files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control.
+Discussions on errors, new features, and other specific issues for riboviz, take place in small forums on GitHub called "issue tickets".
 
 # The student perspective (Emma MacKenzie and Sophie Winterbourne)
 
@@ -40,14 +43,19 @@ Completing an open science project was a very exciting experience, though rather
 
 ## Benefits and challenges of working open
 
-The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually. Though it was intimidating to be working with experts from around the world at such an early stage of our careers, it was valuable experience. Additionally, as everything was documented in the form of issues tickets and commits on GitHub, our contributions to the overall project is available for any future employer to see, which might not have been the case if working out of a private lab book.
+The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually. Though it was intimidating to be working with experts from around the world at such an early stage of our careers, it was valuable experience.
+Additionally, as everything was documented on GitHub, our contributions to the overall project is available for any future employer to see, which might not have been the case if working out of a private lab book.
 When we first started the project, some of the documentation was confusing, as we had never worked with the software before, or with anything like it. However, this meant we were able to provide feedback, and ultimately make the software more novice friendly by improving user documentation.
 
-It did feel like we were dropped in the deep end as a ‘hackathon’ took place during our first official week with the lab. This involved all individuals working on riboviz focusing solely on its development for that week. Having never worked in a lab before, let alone in a bioinformatics one, this was rather overwhelming. Everyday ended with a meeting, where everyone reported on their day, so there was pressure to learn quickly and be able to share progress. These meetings were like going on an intense language immersion course, and it felt like our brains were melting by the end of each day. There was a steep learning curve, but in the long run, this one week of ‘trial by fire’ made everything else seem more manageable in comparison. Additionally, we were able to see how a large group could operate efficiently using issue tickets and GitHub, which at the time were still intimidatingly new to us. The hackathon also meant our supervisors were both completely focused on this project while we were starting, so they could help us adjust to the new environment.
+It did feel like we were dropped in the deep end as a ‘hackathon’ took place during our first official week with the lab. This involved all individuals working on riboviz focusing solely on its development for that week. Having never worked in a lab before, let alone in a bioinformatics one, this was rather overwhelming. Every day ended with a meeting, where everyone reported on their day, so there was pressure to learn quickly and be able to share progress. These meetings were like going on an intense language immersion course, and it felt like our brains were melting by the end of each day. There was a steep learning curve, but in the long run, this one week of ‘trial by fire’ made everything else seem more manageable in comparison.
+We were able to see how a large group could operate efficiently using GitHub, which at the time was intimidatingly new to us. The hackathon also meant our supervisors were both completely focused on this project while we were starting, so they could help us adjust to the new environment.
 
 Overall, the project gave us some valuable skills for further study and working with open science. We learned to prioritise tasks based on their importance within the group rather than for our individual needs. We also gained better debugging skills, knowing where to look in documentation and on google to help us solve problems.
 
-Our communication skills were greatly improved by interacting with our supervisors and the lab group in the course of the project through our Stand-Up Reports and issue tickets on GitHub. The importance of communicating progress and obstacles frequently in a precise and informative manner, especially as all communication occurred virtually, quickly became obvious to avoid confusion and get help more quickly. For example, a prolonged delay was caused by a failed dataset run which could have been avoided if the issue ticket had been updated and detailed sufficiently. This development is clearer now that we occasionally return to issue tickets written in the early stages of the project, and curse at our past selves for documenting the problem, and more importantly the solution, so poorly.
+Our communication skills were greatly improved by interacting with our supervisors and the lab group in the course of the project through Slack conversations and issue tickets on GitHub.
+The importance of communicating progress and obstacles frequently in a precise and informative manner, especially as all communication occurred virtually, quickly became obvious to avoid confusion and get help more quickly.
+For example, a prolonged delay was caused by a failed dataset run which could have been avoided if the issue ticket had been updated in sufficient detail.
+This personal development is clear when we occasionally return to issue tickets written in the early stages of the project and curse at our past selves for documenting the problem - and more importantly the solution - so poorly.
 
 ## How we learned the many tools needed for coding and collaboration
 
@@ -64,8 +72,9 @@ Both of us were, coincidentally, considering completing an MSc in bioinformatics
 We each found the experience of stepping outside of our comfort zone and into an unfamiliar field daunting but very valuable. 
 The project provided a positive experience and a fantastic learning curve which confirmed our initial interest in the field and allowed us to gain confidence and competence within coding and software.
 
+
 ## Students' top takeaways
--	Being able to access other researchers work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
+-	Being able to access other researchers' work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose. 
 -	It is easier to learn when resources are available to refer back to.
 -	Documenting your work helps you, aids others and helps them help you.
 -       Open science is like a group project. Except the world is your group and they won’t affect your grade.
@@ -165,6 +174,7 @@ Students can learn to see their work how other people see it, in small steps, ul
 Sharing work can be made less threatening with clear expectations, structure, and role modeling.
 Be clear that you expect students to ask for help, for example that if they have been stuck on something for more than 2 hours then they should ask for help.
 Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the GitHub issue ticket for the particular task.
+
 Crucially, the expectations and structure must be set at the beginning of the project and their use modeled throughout.
 Be prepared to repeat yourself: in riboviz, we often ask "did you update the issue ticket?"
 When the conduct of the project is open, the whole team shares requests for help and reports on progress, and students experience other team members including the PI role-model asking and sharing.
@@ -182,7 +192,7 @@ By contrast, students' work during the research project can focus on learning, c
 Feedback in an open science project provides formative assessment of student progress in an authentic research setting.
 
 Authentic contributions within the project can lead to authentic credit, including co-authorship on papers and code contributions on GitHub that are visible to potential employers.
-Our riboviz 2 preprint includes as co-authors 5 undergraduate or MSc students from Edinburgh, as well as 2 more from US collaborators.
+Our riboviz 2 preprint includes as co-authors 6 undergraduate or MSc students from Edinburgh, as well as 2 more from US collaborators.
 These co-authorships have been earned by adding new datasets, fixing bugs in code, adding new features, and improving documentation.
 Students also learn about the process of writing a collaborative paper by attending team manuscript meetings and contributing to the draft.
 
@@ -204,9 +214,11 @@ I am amazed at what our students accomplish when treated as colleagues and given
 
 ## PI's top takeaways
 
-- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group.
-- Plan a path from novice to expert for the students, using authentic research tasks.
-- Set clear expectations and structure for how to engage with the larger project, and role-model the behaviour you want.
+- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group. Project students have both time and motivation to contribute, and can get credit for their contributions to code, documentation, and publications.
+- Plan a path from novice to expert for the students, using authentic research tasks. Structuring this path so the next task is achievable helps to build confidence and skills.
+- Set clear expectations and structure for how students can engage with the larger project, and role-model the behaviour you want. This helps to overcome the "intimidation threshold" of openly sharing work.
+- Offering related projects over subsequent years helps to build on previous work and experience.
+
 
 ## Further Reading
 - UNESCO on open science - https://en.unesco.org/science-sustainable-future/open-science
@@ -221,18 +233,22 @@ I am amazed at what our students accomplish when treated as colleagues and given
 ## Authors
 
 _Edward Wallace_
+Edward Wallace is a Sir Henry Dale Fellow (Group Leader) in the Institute of Cell Biology at the University of Edinburgh, funded by Wellcome and The Royal Society. The group studies how organisms respond to their environment, focusing on molecular mechanisms used by fungi.
+The riboviz project is funded by BBSRC and NSF-BIO, to develop better software tools for understanding protein synthesis and its regulation.
+Alongside his research, Dr. Wallace is an open science advocate and teaches data literacy to scientists, working with The Carpentries and Edinburgh Carpentries.
 
+[@ewallace](https://twitter.com/ewjwallace) on twitter.
 
 _Emma MacKenzie_
 
-Emma MacKenzie is currently studying a Masters in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future. 
+Emma MacKenzie is currently studying for an MSc. in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future.
 
 _Flic Anderson_
 
-Felicity 'Flic' Anderson is currently a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. Flic is part of the main development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of the [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic has also been involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools.
+Felicity 'Flic' Anderson is a Research Assistant in Bioinformatics in the Wallace Lab. Flic is a developer for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working to make the codebase more robust & sustainable. She is a member of [Edinburgh Carpentries](https://edcarp.github.io/) and a certified [Carpentries instructor](https://carpentries.org/teach/) in foundational coding and data science skills. Flic is also involved in outreach through the [4273pi project](https://4273pi.org/), which designs and delivers bioinformatics training in Scottish schools. Flic begins a PhD in the use of Software Engineering techniques in Research Software projects in January 2022 with [EPCC](http://www.epcc.ed.ac.uk/).
 
 [@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
 
 
 _Sophie Winterbourne_
-Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assisstant focusing on investigating translation by analysing ribosome profiling data. Email: smwinterbourne@gmail.com
+Sophie Marie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received her bachelor with honours degree in Biological Sciences (Biotechnology) from the University at Edinburgh. Sophie worked in Dr Edward Wallace's lab as a Research Assistant focusing on investigating translation by analysing ribosome profiling data.
