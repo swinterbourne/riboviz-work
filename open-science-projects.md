@@ -81,46 +81,71 @@ The project provided a positive experience and a fantastic learning curve which 
 
 # The day-to-day supervisor perspective (Flic Anderson)
 
-As an early-stage researcher, it can often be difficult to find opportunities to develop and practice coaching, teaching and supervisory skills alongside making progress on your own workload and helping contribute to the lab's goals. Likewise, as someone heavily involved on the riboviz project as a developer, it often seems like there are so many useful new features or improvements we'd like to add, and never enough time to get them done. Enter: student open science projects!
+As an early-stage researcher, it can often be difficult to find opportunities to develop and practice coaching, teaching and supervisory skills alongside making progress on your own workload and helping contribute to the lab's goals.
+Likewise, as someone heavily involved on the riboviz project as a developer, it often seems like there are so many useful new features or improvements we'd like to add, and never enough time to get them done.
+Enter: student open science projects!
 
 ## Overlapping goals
-Supervising students working on riboviz-related research projects in a day-to-day capacity along with my PI has presented an excellent opportunity for me to build key skills.  It has also made it possible to align the supervision with relevant work of my own, meaning that there's not as great a 'brain switch' required when going between supervision tasks and my standard workload. This means that I have been able to improve my own knowledge while helping support the students to learn the concepts, technical skills and organisational techniques required to complete their projects successfully.
+Supervising students working on riboviz-related research projects in a day-to-day capacity along with my PI has presented an excellent opportunity for me to build key skills.
+It has also made it possible to align the supervision with relevant work of my own, meaning that there's not as great a 'brain switch' required when going between supervision tasks and my standard workload.
+This means that I have been able to improve my own knowledge while helping support the students to learn the concepts, technical skills and organisational techniques required to complete their projects successfully.
 
-Having two students joining to pursue projects with riboviz at the same time this year was particularly helpful, as a lot of the instruction and coaching were applicable to both, and meant that there was also an opportunity for peer learning. While not all labs might have capacity to offer multiple projects, I was surprised to find that the increase in supervision time required by two students was much less than expected. Many of the same problems were encountered during both projects and could be solved in one discussion.
+Having two students joining to pursue projects with riboviz at the same time this year was particularly helpful, as a lot of the instruction and coaching were applicable to both, and meant that there was also an opportunity for peer learning.
+While not all labs might have capacity to offer multiple projects, I was surprised to find that the increase in supervision time required by two students was much less than expected.
+Many of the same problems were encountered during both projects and could be solved in one discussion.
 
-Supervising two student projects at the same time was also unexpectedly valuable in highlighting areas where my instruction, knowledge, or communication skills could be improved: _"When one student doesn't seem to understand, it could go either way. When two students don't seem to understand, the problem probably lies with the communicator!"_. The process has been really helpful in making me re-think how I communicate complex ideas, technical information and scientific concepts, and has contributed significantly to my personal development.
+Supervising two student projects at the same time was also unexpectedly valuable in highlighting areas where my instruction, knowledge, or communication skills could be improved: _"When one student doesn't seem to understand, it could go either way. When two students don't seem to understand, the problem probably lies with the communicator!"_.
+The process has been really helpful in making me re-think how I communicate complex ideas, technical information and scientific concepts, and has contributed significantly to my personal development.
 
 ## Open Software Tools & Student Supervision
-Introducing new tools and ideas at the beginning of a new project can always be time consuming initially. But many of the tools used in 'open software' projects such as riboviz lend themselves extremely well to use in a student supervision context, as well as making the task of developing research software easier.
-I have co-supervised students previously where we've introduced concepts such as version control much later in the project timeline, with less success.  This year we took the 'in at the deep end' approach - with floatation aids available in the form of plenty of technical support and helpful and approachable colleagues.
+Introducing new tools and ideas at the beginning of a new project can always be time consuming initially.
+But many of the tools used in 'open software' projects such as riboviz lend themselves extremely well to use in a student supervision context, as well as making the task of developing research software easier.
+I have co-supervised students previously where we've introduced concepts such as version control much later in the project timeline, with less success.
+This year we took the 'in at the deep end' approach - with floatation aids available in the form of plenty of technical support and helpful and approachable colleagues.
 
-With a little coaching early on in the project to demonstrate which tools we use to develop riboviz, as well as how we manage the riboviz project collaboratively, it was much easier to keep track of what tasks students were working on.  We could also answer questions, identify and resolve potential issues and deliver feedback on work - particularly any code. The fact that the rest of the riboviz team all use these tools definitely helped to make this a more 'normal' way of working, and meant we were able to answer any questions about how and when to use the tools.
+With a little coaching early on in the project to demonstrate which tools we use to develop riboviz, as well as how we manage the riboviz project collaboratively, it was much easier to keep track of what tasks students were working on.
+We could also answer questions, identify and resolve potential issues and deliver feedback on work - particularly any code.
+The fact that the rest of the riboviz team all use these tools definitely helped to make this a more 'normal' way of working, and meant we were able to answer any questions about how and when to use the tools.
 
-After a short workshop on git version control and some early trouble-shooting, it proved a really powerful way to supervise students taking their first steps beyond using R within student courses and learning to become software developers.  We could quickly and easily ping code back and forth, refer to line numbers and particular snapshots of code, and ease of testing whether code would run on other machines.
+After a short workshop on git version control and some early trouble-shooting, it proved a really powerful way to supervise students taking their first steps beyond using R within student courses and learning to become software developers.
+We could quickly and easily ping code back and forth, refer to line numbers and particular snapshots of code, and ease of testing whether code would run on other machines.
 
-Using zoom for remote 'pair-programming' sessions was also quite helpful, and possibly more convenient than doing the same exercise in-person (particularly if doing so with more than one student), as screen-sharing while live-coding ensures everyone can see the whole screen, rather than everyone crowding around one monitor.
+Using zoom for remote 'pair-programming' sessions was also quite helpful, and possibly more convenient than doing the same exercise in-person (particularly if doing so with more than one student).
+With screen-sharing while live-coding, everyone can see the whole screen, rather than everyone crowding around one monitor.
 
-GitHub issue tickets have been invaluable.  They provide mutually accessible, backed-up spaces for making notes, keeping track of progress, linking ideas and concepts, asking questions, tagging in colleagues to get other opinions or help, and also help to store information which might be helpful for the overall riboviz project, not just the students' projects. It's very satisfying to be able to bat code, manuscripts and ideas back and forth using GitHub and issue tickets to quickly resolve a problem.
+GitHub issue tickets have been invaluable.
+They provide mutually accessible, backed-up spaces for making notes, keeping track of progress, linking ideas and concepts, asking questions, tagging in colleagues to get other opinions or help, and also help to store information which might be helpful for the overall riboviz project, not just students' projects.
+It's very satisfying to be able to bat code, manuscripts and ideas back and forth using GitHub and issue tickets to quickly resolve a problem.
 
 Using issue tickets also helps to get students thinking about the ways ideas can be broken down into tasks, and how best to prioritise these different steps to achieve larger goals, which is another key skill these projects help students to practice.
 
 Using a chat-like service such as Slack was also helpful as it gave dedicated channels for asking questions, distributing meeting notes, sharing files and celebrating successes.
 
-The Wallace lab runs a Slack-based 'stand-up' session three times a week (based on software development management practices), where members share in a couple of sentences: 1) What did I do or achieve recently? 2) What will I prioritize next? 3) What obstacles are impeding my progress? This practice was extremely helpful at staying up-to-date with what the students were working on currently, and what was working and what they might need extra support with.
+The Wallace lab runs a Slack-based 'stand-up' session three times a week (based on software development management practices), where members share in a couple of sentences: 1) What did I do or achieve recently? 2) What will I prioritize next? 3) What obstacles are impeding my progress?
+This practice was extremely helpful at staying up-to-date with what the students were working on currently, and what was working and what they might need extra support with.
 
-The stand-up updates worked very well alongside weekly zoom meetings which helped get a more in-depth idea of progress and gave more opportunities to explore any issues in more depth, and share additional resources or demonstrate coding techniques (for example, these zoom sessions included demos of how to resolve real-world git merge conflicts, or how to debug R code using the command-line).
+The stand-up updates worked very well alongside weekly zoom meetings which helped get a more in-depth idea of progress and gave more opportunities to explore any issues in more depth, and share additional resources or demonstrate coding techniques.
+As an example, these zoom sessions included demos of how to resolve real-world git merge conflicts, or how to debug R code using the command-line.
 
-While the traditional weekly zoom supervision meetings helped to tackle larger issues and were always productive, I think that having the option of using these 'less formal' and always-open channels of communication such as slack channels and issue tickets helped make asking questions slightly less daunting. I feel that this was helpful in building a good mutual working relationship and definitely benefited the projects overall.
+While the traditional weekly zoom supervision meetings helped to tackle larger issues and were always productive, I think that having the option of using these 'less formal' and always-open channels of communication such as slack channels and issue tickets helped make asking questions slightly less daunting.
+I feel that this was helpful in building a good mutual working relationship and definitely benefited the projects overall.
 
 ## Teamwork
 
 Having students joining our team to work on their own projects meant that they helped contribute more ideas, discovered more possibilities for improvement, and helped us progress towards overall lab goals faster.
 
-Both Sophie and Emma have mentioned that introducing them to the project meetings and lab meetings early on was helpful in allowing them to see how the riboviz project and the Wallace lab were managed, meet colleagues, become familiar with the different areas of work and how those might interact with their own project work.  From a more social point of view, it helped them get a feel for the team's dynamics - something that has been much harder to do in a remote-working context. Involving them in our regular meetings was another opportunity to check in with them and gauge progress from a supervision point of view, but it also helped integrate them within the wider group: we all had more awareness about what was being worked on, opportunities for collaboration, problem solving and a real feeling that these are skilled and engaged team members not just external students.
+Both Sophie and Emma have mentioned that introducing them to the project meetings and lab meetings early on was helpful in allowing them to see how the riboviz project and the Wallace lab were managed, meet colleagues, become familiar with the different areas of work and how those might interact with their own project work.
+From a more social point of view, it helped them get a feel for the team's dynamics - something that has been much harder to do in a remote-working context.
+Involving them in our regular meetings was another opportunity to check in with them and gauge progress from a supervision point of view, but also helped integrate them within the wider group.
+As a result, we all had more awareness about what was being worked on, opportunities for collaboration, problem solving and a real feeling that these are skilled and engaged team members not just external students.
 
-As their day-to-day supervisor I've probably benefited most from the experience of helping to train and guide such bright and engaged students, learning a lot about project organization and planning, communication, time management, as well as enjoying the small taste of power that comes from being able to delegate (relevant!) tasks to our new team members from time to time! More seriously, the prospect of supervising their thesis projects (not a stress-free task in itself) during COVID-19 and all of the difficulties it brought with it was certainly a little intimidating or challenging at times.  There's no doubt that sometimes it's easier to check everyone's on the same page when we're all in the same room. But the tools we've used made it feel much less of an impossible task and helped to make the process much smoother than it might otherwise have been.
+As their day-to-day supervisor I've probably benefited most from the experience of helping to train and guide such bright and engaged students, learning a lot about project organization and planning, communication, time management, as well as enjoying the small taste of power that comes from being able to delegate (relevant!) tasks to our new team members from time to time!
+More seriously, the prospect of supervising their thesis projects (not a stress-free task in itself) during COVID-19 and all of the difficulties it brought with it was certainly a little intimidating or challenging at times. 
+There's no doubt that sometimes it's easier to check everyone's on the same page when we're all in the same room.
+However, the tools we used made it feel much less of an impossible task and helped to make the process much smoother than it might otherwise have been.
 
-As a result of hosting these open science student projects, riboviz has improved significantly across a whole range of measures, and our whole team has really enjoyed the experience of having students working with us. With each cohort I've been involved with, I'm more convinced that open science projects and open software tools make a powerful combination that benefit students and research groups equally.
+As a result of hosting these open science student projects, riboviz has improved significantly across a whole range of measures, and our whole team has really enjoyed the experience of having students working with us.
+With each cohort I've been involved with, I'm more convinced that open science projects and open software tools make a powerful combination that benefit students and research groups equally.
 
 ## Day-to-day supervisor's top takeaways
 
