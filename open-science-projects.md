@@ -140,7 +140,7 @@ Involving them in our regular meetings was another opportunity to check in with 
 As a result, we all had more awareness about what was being worked on, opportunities for collaboration, problem solving and a real feeling that these are skilled and engaged team members not just external students.
 
 As their day-to-day supervisor I've probably benefited most from the experience of helping to train and guide such bright and engaged students, learning a lot about project organization and planning, communication, time management, as well as enjoying the small taste of power that comes from being able to delegate (relevant!) tasks to our new team members from time to time!
-More seriously, the prospect of supervising their thesis projects (not a stress-free task in itself) during COVID-19 and all of the difficulties it brought with it was certainly a little intimidating or challenging at times. 
+More seriously, the prospect of supervising their thesis projects (not a stress-free task in itself) during COVID-19 and all of the difficulties it brought with it was certainly a little intimidating or challenging at times.
 There's no doubt that sometimes it's easier to check everyone's on the same page when we're all in the same room.
 However, the tools we used made it feel much less of an impossible task and helped to make the process much smoother than it might otherwise have been.
 
@@ -187,6 +187,8 @@ If students don't know how to contribute code, do you need a better developer gu
 Writing documentation may not "feel like research", so you may need to explain its value so that students are motivated to contribute.
 Good documentation is essential to help researchers use and think clearly about using software, and the same is true of written experimental protocols.
 Writing documentation is excellent preparation for writing up a project report, especially the methods section, so benefits the student.
+
+![IMAGE: How to plan for successful student projects](open_science_projects_figure_EW_2021-09-28.svg)
 
 ## Overcoming the "intimidation threshold" to working open
 
