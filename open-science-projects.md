@@ -224,8 +224,9 @@ Students also learn about the process of writing a collaborative paper by attend
 ## Mistakes and benefits
 
 We have made plenty of mistakes.
-Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented and barely usable) data structures.
-Offering related projects over subsequent years helped us to learn from our previous mistakes, and to make new ones instead.
+Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
+I as supervisor have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices and/or missing from our documentation.
+Offering related projects over subsequent years helped us to learn from our previous mistakes, and to progress to new ones instead.
 
 These sorts of mistakes aren't unique to open science projects.
 Students doing their first experimental research projects can also get stuck, spend time on activities unimportant to the project, and drag their feet on asking for help.
