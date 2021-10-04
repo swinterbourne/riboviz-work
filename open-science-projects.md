@@ -225,6 +225,9 @@ Students also learn about the process of writing a collaborative paper by attend
 
 We have made plenty of mistakes.
 Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
+I as supervisor have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices and/or missing from our documentation.
+Offering related projects over subsequent years helped us to learn from our previous mistakes, and to progress to new ones instead.
+
 These sorts of mistakes aren't unique to open science projects.
 Students doing their first experimental research projects can also get stuck, spend time on activities unimportant to the project, and drag their feet on asking for help.
 Most trainees need supervision on how to break a project down into small steps, in the new skills involved in executing those small steps, and in documentation and communication within a research group.
@@ -240,9 +243,9 @@ I am amazed at what our students accomplish when treated as colleagues and given
 ## PI's top takeaways
 
 - Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group. Project students have both time and motivation to contribute, and can get credit for their contributions to code, documentation, and publications.
-- Plan a path from novice to expert for the students, using authentic research tasks. Structuring this path so the next task is achievable helps to build confidence and skills.
-- Set clear expectations and structure for how students can engage with the larger project, and role-model the behaviour you want. This helps to overcome the "intimidation threshold" of openly sharing work.
-- Offering related projects over subsequent years helps to build on previous work and experience.
+- Plan a path from novice to expert for the students, using authentic research tasks. Structure this path so the next task is achievable, to build confidence and skills.
+- Overcome the "intimidation threshold" for collaborative work by: having a structure that makes it easy to share work, setting expectations that sharing is non-optional, and modeling the collaborative behaviour that you want.
+- Offer related projects over subsequent years to build on previous work and experience.
 
 
 ## Further Reading
