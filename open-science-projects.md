@@ -23,7 +23,7 @@ Discussions on errors, new features, and other specific issues for riboviz, take
 
 # The student perspective (Emma MacKenzie and Sophie Winterbourne)
 
-## Projects available to students can be more or less open
+## There are many kinds of student research projects
 
 Students on our undergraduate Biotechnology Honours course had access to a wide variety of projects.
 Potential projects had varying levels of openness.
@@ -34,7 +34,7 @@ Any impact beyond the hosting lab, for example contributions leading to a public
 Some other available projects involved working with trade secrets or compounds with therapeutic potential, with appropriate legal restrictions on confidentiality.
 The idea of navigating an unfamiliar set of rules for protecting intellectual property caused us a lot of anxiety, which we avoided by working on an open science project.
 
-## Our projects
+## What our project was like
 
 Our project involved jumping into a team working on the riboviz data analysis pipeline.
 We contributed to the overall development of riboviz in the form of adding new datasets, testing the pipeline, and commenting on its usability.
@@ -55,8 +55,7 @@ It provided potential for learning a variety of skills as we were free to aid in
 Completing an open science project was a very exciting experience, though rather intimidating as we were contributing to a larger project rather than completing an isolated experiment or literature review.
 The idea that everything we did could be seen by others, and had the potential to help or hinder them, fuelled this feeling of intimidation.
 Knowing that experts within the field could examine the code we had written or critique the conclusions we had reached created an additional layer of motivation in terms of maintaining high quality work that could be understood by others.
-Our project, being open, continued to avoid generating anxiety about dealing with confidential ideas or processes, contrasting with the stress and isolation described by some of our peers working on closed projects. EDWARD ASKS: IS THIS ACCURATE? EDIT OR REMOVE.
-We were able to openly collaborate and learn from the work of others in the group, and bounce ideas off peers working on other open projects.
+We learned to openly collaborate and to learn from the work of others in the group, and we also enjoyed bouncing ideas off peers working on other open projects.
 
 ## Benefits and challenges of working open
 
