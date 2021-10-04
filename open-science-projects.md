@@ -41,7 +41,7 @@ We contributed to the overall development of riboviz in the form of adding new d
 Our work is documented on GitHub and is publicly accessible, providing proof of our contributions to the overarching project, in addition to our own reports.
 Sharing our contributions instantly and openly provides concrete evidence of our capabilities, which is accessible to potential employers.
 
-Due to the COVID-19 pandemic, but also as the projects were completely computer based, we did not have any in-person contact hours. 
+Due to the COVID-19 pandemic, but also as the projects were completely computer based, we did not have any in-person contact hours.
 However, we were able to attend regular video meetings with our supervisors and with collaborators, and we posted frequent progress updates on the lab Slack message board.
 This contact was supplemented by issue ticket updates and commits as we sent updates from our local machines to GitHub, which our supervisors were able to see and comment on.
 We gained practical collaboration and computing skills, however, we missed out on improving our wet-lab or bench skills.
@@ -50,7 +50,7 @@ We gained practical collaboration and computing skills, however, we missed out o
 
 We had the freedom to join a supportive lab where we were encouraged to take our projects in any direction of interest, while still being guided towards contributing useful material to the wider community.
 The open science nature of the project allowed for wider collaboration with other members of the lab and cooperating with research groups across the world.
-It provided potential for learning a variety skills as we were free to aid in different sub-projects, in addition to our own, without concerns about confidentiality.
+It provided potential for learning a variety of skills as we were free to aid in different sub-projects, in addition to our own, without concerns about confidentiality.
 
 Completing an open science project was a very exciting experience, though rather intimidating as we were contributing to a larger project rather than completing an isolated experiment or literature review.
 The idea that everything we did could be seen by others, and had the potential to help or hinder them, fuelled this feeling of intimidation.
