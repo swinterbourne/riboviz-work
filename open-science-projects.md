@@ -103,7 +103,7 @@ The project provided a positive experience and a fantastic learning curve which 
 -	Being able to access other researchers' work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose.
 -	It is easier to learn when resources are available to refer back to.
 -	Documenting your work helps you, aids others and helps them help you.
-- Open science is like a group project. Except the world is your group and they won’t affect your grade.
+- Open science is like a group project, where the other members of your group are researchers and the world can see your work.
 
 # The day-to-day supervisor perspective (Flic Anderson)
 
@@ -240,7 +240,7 @@ This team member needs to ask, when appropriate, "did you update the issue ticke
 Explaining how credit is assigned is also crucial.
 Usually, the project report or write-up determines most of the student's grade.
 The grade then doesn't depend directly on any code they contribute or results that they obtain.
-Open science projects resemble other group projects, such as the IGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and graded individually.
+Open science projects resemble other group projects, such as the iGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and graded individually.
 By contrast, students' work during the research project can focus on learning, contributing, and building towards results.
 Feedback in an open science project provides formative assessment of student progress in an authentic research setting.
 
