@@ -307,6 +307,6 @@ Felicity 'Flic' Anderson is a Research Assistant in Bioinformatics in the Wallac
 
 [@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
 
-
 _Sophie Winterbourne_
+
 Sophie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received a First-Class Honours degree in Biological Sciences (Biotechnology) from the University of Edinburgh. Her Honours project focused on studying inhibitory features of translation in _Saccharomyces cerevisiae_ using the open-source software package 'riboviz'. Sophie worked in The Wallace lab as a Research Assistant in Bioinformatics where she helped improve documentation and provided new functionality. She would like to continue her studies within the field of translational biology.
