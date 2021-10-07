@@ -50,16 +50,18 @@ We gained practical collaboration and computing skills, however, we missed out o
 
 We had the freedom to join a supportive lab where we were encouraged to take our projects in any direction of interest, while still being guided towards contributing useful material to the wider community.
 The open science nature of the project allowed for wider collaboration with other members of the lab and cooperating with research groups across the world.
-It provided potential for learning a variety of skills as we were free to aid in different sub-projects, in addition to our own, without concerns about confidentiality.
+It provided potential for learning a variety of skills as we were free to aid in different sub-projects, in addition to our own.
 
-Completing an open science project was a very exciting experience, though rather intimidating as we were contributing to a larger project rather than completing an isolated experiment or literature review.
-The idea that everything we did could be seen by others, and had the potential to help or hinder them, fuelled this feeling of intimidation.
+Completing an open science project was a very exciting experience, as we were contributing to a larger project rather than completing an isolated experiment or literature review.
+We initially felt intimidated by the idea that everything we did could be seen by others, and had the potential to help or hinder them.
+As the project continued, we learned to openly collaborate and to learn from the work of others in the group, and we also enjoyed bouncing ideas off peers working on other open projects.
 Knowing that experts within the field could examine the code we had written or critique the conclusions we had reached created an additional layer of motivation in terms of maintaining high quality work that could be understood by others.
-We learned to openly collaborate and to learn from the work of others in the group, and we also enjoyed bouncing ideas off peers working on other open projects.
+
 
 ## Benefits and challenges of working open
 
-The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually. Though it was intimidating to be working with experts from around the world at such an early stage of our careers, it was valuable experience.
+The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually.
+Working with experts from around the world at such an early stage of our careers was valuable experience, and their support helped to overcome our initial intimidation.
 When we first started the project, some of the documentation was confusing, as we had never worked with the software before, or with anything like it. However, this meant we were able to provide feedback, and ultimately make the software more novice friendly by improving user documentation.
 
 It did feel like we were dropped in the deep end during our first official week with the lab when a ‘hackathon’ took place.
@@ -68,7 +70,7 @@ Having never worked in a lab before, let alone in a bioinformatics one, this was
 Every day ended with a meeting, where everyone reported on their day, so there was pressure to learn quickly and be able to share progress.
 These meetings were like going on an intense language immersion course, and it felt like our brains were melting by the end of each day.
 There was a steep learning curve, but in the long run, this one week of ‘trial by fire’ made everything else seem more manageable in comparison.
-We were able to see how a large group could operate efficiently using GitHub, which at the time was intimidatingly new to us.
+We were able to see how a large group could operate efficiently using GitHub, which was new to us.
 The hackathon also meant our supervisors were both completely focused on this project while we were starting, so they could help us adjust to the new environment.
 
 Overall, the project gave us valuable skills for further study and working with open science.
