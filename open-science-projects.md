@@ -1,10 +1,10 @@
 ---
 title:  'The benefits of an open science approach in student research projects'
 author:
-- Edward Wallace
 - Emma MacKenzie
-- Flic Anderson
 - Sophie Winterbourne
+- Flic Anderson
+- Edward Wallace
 ---
 
 ## Abstract
@@ -290,16 +290,13 @@ I am amazed at what our students accomplish when treated as colleagues and given
 
 ## Authors
 
-_Edward Wallace_
-Edward Wallace is a Sir Henry Dale Fellow (Group Leader) in the Institute of Cell Biology at the University of Edinburgh, funded by Wellcome and The Royal Society. The group studies how organisms respond to their environment, focusing on molecular mechanisms used by fungi.
-The riboviz project is funded by BBSRC and NSF-BIO, to develop better software tools for understanding protein synthesis and its regulation.
-Alongside his research, Dr. Wallace is an open science advocate and teaches data literacy to scientists, working with The Carpentries and Edinburgh Carpentries.
-
-[@ewallace](https://twitter.com/ewjwallace) on twitter.
-
 _Emma MacKenzie_
 
-Emma MacKenzie is currently studying for an MSc. in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biotechnology from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future.
+Emma MacKenzie is currently studying for an MSc. in Bioinformatics at the University of Edinburgh. She received a First Class Honours degree in Biological Sciences (Biotechnology) from the University of Edinburgh, after spending her Honours project using ribosome profiling data to analyse translation in _Schizosaccharomyces pombe_ using data analysis pipeline 'riboviz'. She worked as a Research Assistant in Bioinformatics with the Wallace Lab over the summer between her Honours and Masters degrees. She plans on using her bioinformatics skills to study human health and genetics in the future.
+
+_Sophie Winterbourne_
+
+Sophie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received a First-Class Honours degree in Biological Sciences (Biotechnology) from the University of Edinburgh. Her Honours project focused on studying inhibitory features of translation in _Saccharomyces cerevisiae_ using the open-source software package 'riboviz'. Sophie worked in The Wallace lab as a Research Assistant in Bioinformatics where she helped improve documentation and provided new functionality. She would like to continue her studies within the field of translational biology.
 
 _Flic Anderson_
 
@@ -307,6 +304,9 @@ Felicity 'Flic' Anderson is a Research Assistant in Bioinformatics in the Wallac
 
 [@Flic_Anderson](https://twitter.com/Flic_Anderson) on twitter.
 
-_Sophie Winterbourne_
+_Edward Wallace_
+Edward Wallace is a Sir Henry Dale Fellow (Group Leader) in the Institute of Cell Biology at the University of Edinburgh, funded by Wellcome and The Royal Society. The group studies how organisms respond to their environment, focusing on molecular mechanisms used by fungi.
+The riboviz project is funded by BBSRC and NSF-BIO, to develop better software tools for understanding protein synthesis and its regulation.
+Alongside his research, Dr. Wallace is an open science advocate and teaches data literacy to scientists, working with The Carpentries and Edinburgh Carpentries.
 
-Sophie Winterbourne is currently an MSc Bioinformatics student at the University of Edinburgh. She received a First-Class Honours degree in Biological Sciences (Biotechnology) from the University of Edinburgh. Her Honours project focused on studying inhibitory features of translation in _Saccharomyces cerevisiae_ using the open-source software package 'riboviz'. Sophie worked in The Wallace lab as a Research Assistant in Bioinformatics where she helped improve documentation and provided new functionality. She would like to continue her studies within the field of translational biology.
+[@ewallace](https://twitter.com/ewjwallace) on twitter.
