@@ -88,8 +88,8 @@ This personal development is clear when we occasionally return to issue tickets 
 
 ## How we learned the many tools needed for coding and collaboration
 
-To complete our projects we needed to be able to confidently use the command line, Git, GitHub, the university computing cluster, and the data analysis pipeline riboviz. 
-Early in the project we were given a tutorial on using Git and GitHub by our supervisor, Flic. 
+To complete our projects we needed to be able to confidently use the command line, Git, GitHub, the university computing cluster, and the data analysis pipeline riboviz.
+Early in the project we were given a tutorial on using Git and GitHub by our supervisor, Flic.
 This was extremely helpful and, as the tutorial materials were stored on GitHub, we were able to refer back to them any time we were feeling lost or confused.
 We were also pointed in the direction of learning materials produced by The Carpentries team, including a course called ‘The Unix Shell’ which provided a solid understanding of using the command line to navigate and manipulate files.
 Within the first few weeks of the project, it became clear that we would be unable to run large datasets through the riboviz pipeline on a underpowered personal laptop, so we needed to learn how to remotely access the university’s computing cluster.
@@ -268,7 +268,7 @@ Students also learn about the process of writing a collaborative paper by attend
 
 We have made plenty of mistakes.
 Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
-I as supervisor have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices, or missing from our documentation.
+I, as supervisor, have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices, or missing from our documentation.
 Offering related projects over subsequent years helped us to learn from our previous mistakes, and to progress to new ones instead.
 
 These sorts of mistakes aren't unique to open science projects.
