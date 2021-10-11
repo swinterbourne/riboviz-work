@@ -8,18 +8,20 @@ author:
 ---
 
 ## Abstract
-Open science is the idea of allowing scientific information, data and outputs to be more widely accessible and reusable, with the active engagement of all the stakeholders.
+Open science is a movement to allow scientific information, data and outputs to be more widely accessible and reusable, with the active engagement of all the stakeholders.
 Open science can also describe openness within a research group where all participants share their data, analysis code, ideas, and feedback.
 These ideas can be applied to all aspects of science, from large research consortia to student projects.
 With great accessibility comes greater reproducibility, leading to better code quality and better research.
 
-Here we describe what we have learned and gained from taking an open science approach in undergraduate and masters student research projects, from the perspective of the student, the day-to-day supervisor, and the principal investigator (PI) or research group head.
+Here we describe what we have learned and gained from taking an open science approach in undergraduate and masters student research projects, from the perspective of the student, the day-to-day supervisor, and the principal investigator (PI) or research group leader.
 The undergraduate honours research project described in this article involved working with a data analysis pipeline for ribosome profiling data, riboviz, to analyse translation dynamics.
 riboviz is an example of open scientific software as all of the code is openly available.
 riboviz also takes an open science approach in that all team members can see and contribute to all work in progress, collaborating across research groups in the UK and USA.
+
 We host riboviz on GitHub, a website for software, code, documentation, and collaboration.
 Files can be downloaded, edited and returned to GitHub using Git, which passes information between a local machine and GitHub while allowing for version control.
 Discussions on errors, new features, and other specific issues for riboviz, take place in small forums on GitHub called "issue tickets".
+
 
 # The student perspective (Emma MacKenzie and Sophie Winterbourne)
 
@@ -43,32 +45,36 @@ Sharing our contributions instantly and openly provides concrete evidence of our
 
 Due to the COVID-19 pandemic, but also as the projects were completely computer based, we did not have any in-person contact hours.
 However, we were able to attend regular video meetings with our supervisors and with collaborators, and we posted frequent progress updates on the lab Slack message board.
-This contact was supplemented by issue ticket updates and commits as we sent updates from our local machines to GitHub, which our supervisors were able to see and comment on.
+This contact was supplemented by issue ticket updates and commits as we sent work from our local machines to GitHub, which our supervisors were able to see and comment on.
 We gained practical collaboration and computing skills, however, we missed out on improving our wet-lab or bench skills.
 
 ## What it felt like to work in open science
 
 We had the freedom to join a supportive lab where we were encouraged to take our projects in any direction of interest, while still being guided towards contributing useful material to the wider community.
 The open science nature of the project allowed for wider collaboration with other members of the lab and cooperating with research groups across the world.
-It provided potential for learning a variety of skills as we were free to aid in different sub-projects, in addition to our own, without concerns about confidentiality.
+It provided potential for learning a variety of skills as we were free to aid in different sub-projects, in addition to our own.
 
-Completing an open science project was a very exciting experience, though rather intimidating as we were contributing to a larger project rather than completing an isolated experiment or literature review.
-The idea that everything we did could be seen by others, and had the potential to help or hinder them, fuelled this feeling of intimidation.
+Completing an open science project was a very exciting experience, as we were contributing to a larger project rather than completing an isolated experiment or literature review.
+We initially felt intimidated by the idea that everything we did could be seen by others, and had the potential to help or hinder them.
+The project team supported us by emphasising that sharing our day-to-day work was both normal and helpful.
+As the project continued, we learned to openly collaborate and to learn from the work of others in the group, and we also enjoyed bouncing ideas off peers working on other open projects.
 Knowing that experts within the field could examine the code we had written or critique the conclusions we had reached created an additional layer of motivation in terms of maintaining high quality work that could be understood by others.
-We learned to openly collaborate and to learn from the work of others in the group, and we also enjoyed bouncing ideas off peers working on other open projects.
+
 
 ## Benefits and challenges of working open
 
-The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually. Though it was intimidating to be working with experts from around the world at such an early stage of our careers, it was valuable experience.
-When we first started the project, some of the documentation was confusing, as we had never worked with the software before, or with anything like it. However, this meant we were able to provide feedback, and ultimately make the software more novice friendly by improving user documentation.
+The open science nature of the project simplified communicating about it with other members of the lab when we were all working virtually.
+Working with experts from around the world at such an early stage of our careers was valuable experience, and their support helped to overcome our initial intimidation.
+When we first started the project, some of the documentation was confusing, as we had never worked with the software before, or with anything like it.
+However, this meant we were able to provide feedback, and ultimately make the software more novice friendly by improving user documentation.
 
 It did feel like we were dropped in the deep end during our first official week with the lab when a ‘hackathon’ took place.
 This involved all individuals working on riboviz focusing solely on its development for that week, across 3 labs in 3 time zones.
 Having never worked in a lab before, let alone in a bioinformatics one, this was rather overwhelming.
 Every day ended with a meeting, where everyone reported on their day, so there was pressure to learn quickly and be able to share progress.
 These meetings were like going on an intense language immersion course, and it felt like our brains were melting by the end of each day.
-There was a steep learning curve, but in the long run, this one week of ‘trial by fire’ made everything else seem more manageable in comparison.
-We were able to see how a large group could operate efficiently using GitHub, which at the time was intimidatingly new to us.
+There was a steep learning curve, but in the long run, this one week of "trial by fire" made everything else seem more manageable in comparison.
+We were able to see how a large group could operate efficiently using GitHub, which was new to us.
 The hackathon also meant our supervisors were both completely focused on this project while we were starting, so they could help us adjust to the new environment.
 
 Overall, the project gave us valuable skills for further study and working with open science.
@@ -76,13 +82,18 @@ We learned to prioritise tasks based on their importance within the group rather
 We also gained better debugging skills, knowing where to look in documentation and on google to help us solve problems.
 
 Our communication skills were greatly improved by interacting with our supervisors and the lab group in the course of the project through Slack conversations and issue tickets on GitHub.
-The importance of communicating progress and obstacles frequently in a precise and informative manner, especially as all communication occurred virtually, quickly became obvious to avoid confusion and get help more quickly.
+We soon learned the importance of frequently communicating progress and obstacles in a precise and informative manner, both to avoid confusion and to get help more quickly, especially as all communication occurred virtually.
 For example, a prolonged delay was caused by a failed dataset run which could have been avoided if the issue ticket had been updated in sufficient detail.
 This personal development is clear when we occasionally return to issue tickets written in the early stages of the project and curse at our past selves for documenting the problem - and more importantly the solution - so poorly.
 
 ## How we learned the many tools needed for coding and collaboration
 
-To complete our projects we needed to be able to confidently use the command line, Git, GitHub, the university supercomputer, and the data analysis pipeline riboviz. Early in the project we were given a tutorial on using Git and GitHub by our supervisor, Flic. This was extremely helpful and, as the tutorial materials were stored on GitHub, we were able to refer back to them any time we were feeling lost or confused. We were also pointed in the direction of learning materials produced by The Carpentries team, including a course called ‘The Unix Shell’ which provided a solid understanding of using the command line to navigate and manipulate files. Within the first few weeks of the project, it became clear that we would be unable to run large datasets through the riboviz pipeline on a underpowered personal laptop, so we needed to learn how to remotely access the university’s supercomputer. Using resources provided by the university, we learned how to navigate the supercomputer, submit jobs and run interactive sessions.
+To complete our projects we needed to be able to confidently use the command line, Git, GitHub, the university computing cluster, and the data analysis pipeline riboviz.
+Early in the project we were given a tutorial on using Git and GitHub by our supervisor, Flic.
+This was extremely helpful and, as the tutorial materials were stored on GitHub, we were able to refer back to them any time we were feeling lost or confused.
+We were also pointed in the direction of learning materials produced by The Carpentries team, including a course called ‘The Unix Shell’ which provided a solid understanding of using the command line to navigate and manipulate files.
+Within the first few weeks of the project, it became clear that we would be unable to run large datasets through the riboviz pipeline on a underpowered personal laptop, so we needed to learn how to remotely access the university’s computing cluster.
+Using resources provided by the university, we learned how to navigate the cluster, submit jobs and run interactive sessions.
 
 The most important step of the project was learning how to use the data analysis pipeline riboviz. Fortunately, the pipeline is reasonably well documented which made the experience slightly smoother. We were able to provide feedback on documentation while we were learning how to run the pipeline, and contributed to the improvement of user documentation. Time and practice meant that by the end of the project we were confidently running datasets through riboviz and writing our own visualisation code. The experience highlighted how important it is to document the use of scripts and code, which means we will be able to write better code in the future.
 
@@ -103,7 +114,7 @@ The project provided a positive experience and a fantastic learning curve which 
 -	Being able to access other researchers' work can speed up projects.  Pre-existing code could be used as a starting point to learn which functions and packages could be used for a specific purpose.
 -	It is easier to learn when resources are available to refer back to.
 -	Documenting your work helps you, aids others and helps them help you.
-- Open science is like a group project. Except the world is your group and they won’t affect your grade.
+- Open science is like a group project, where the other members of your group are researchers and the world can see your work.
 
 # The day-to-day supervisor perspective (Flic Anderson)
 
@@ -114,7 +125,7 @@ Enter: student open science projects!
 ## Overlapping goals
 
 Supervising students working on riboviz-related research projects in a day-to-day capacity along with my PI has presented an excellent opportunity for me to build key skills.
-It has also made it possible to align the supervision with relevant work of my own, meaning that there's not as great a 'brain switch' required when going between supervision tasks and my standard workload.
+It has also made it possible to align the supervision with relevant work of my own, meaning that there's not as much context-switching required when going between supervision tasks and my standard workload.
 This means that I have been able to improve my own knowledge while helping support the students to learn the concepts, technical skills and organisational techniques required to complete their projects successfully.
 
 Having two students joining to pursue projects with riboviz at the same time this year was particularly helpful, as a lot of the instruction and coaching were applicable to both, and meant that there was also an opportunity for peer learning.
@@ -138,7 +149,7 @@ The fact that the rest of the riboviz team all use these tools definitely helped
 After a short workshop on git version control and some early trouble-shooting, it proved a really powerful way to supervise students taking their first steps beyond using R within student courses and learning to become software developers.
 We could quickly and easily ping code back and forth, refer to line numbers and particular snapshots of code, and ease of testing whether code would run on other machines.
 
-Using zoom for remote 'pair-programming' sessions was also quite helpful, and possibly more convenient than doing the same exercise in-person (particularly if doing so with more than one student).
+Using video calls for remote 'pair-programming' sessions was also quite helpful, and possibly more convenient than doing the same exercise in-person (particularly if doing so with more than one student).
 With screen-sharing while live-coding, everyone can see the whole screen, rather than everyone crowding around one monitor.
 
 GitHub issue tickets have been invaluable.
@@ -152,10 +163,11 @@ Using a chat-like service such as Slack was also helpful as it gave dedicated ch
 The Wallace lab runs a Slack-based 'stand-up' session three times a week (based on software development management practices), where members share in a couple of sentences: 1) What did I do or achieve recently? 2) What will I prioritize next? 3) What obstacles are impeding my progress?
 This practice was extremely helpful at staying up-to-date with what the students were working on currently, and what was working and what they might need extra support with.
 
-The stand-up updates worked very well alongside weekly zoom meetings which helped get a more in-depth idea of progress and gave more opportunities to explore any issues in more depth, and share additional resources or demonstrate coding techniques.
-As an example, these zoom sessions included demos of how to resolve real-world git merge conflicts, or how to debug R code using the command-line.
+The stand-up updates worked very well alongside weekly supervision meetings by video call.
+These weekly meetings reviewed overall progress and gave more opportunities to explore any issues in more depth, and share additional resources or demonstrate coding techniques.
+For example, I led demos of how to resolve real-world git merge conflicts, and how to debug R code using the command-line.
 
-While the traditional weekly zoom supervision meetings helped to tackle larger issues and were always productive, I think that having the option of using these 'less formal' and always-open channels of communication such as slack channels and issue tickets helped make asking questions slightly less daunting.
+While the weekly supervision meetings helped to tackle larger issues and were always productive, I think that having the option of using these 'less formal' and always-open channels of communication such as slack channels and issue tickets helped make asking questions slightly less daunting.
 I feel that this was helpful in building a good mutual working relationship and definitely benefited the projects overall.
 
 ## Teamwork
@@ -168,7 +180,7 @@ Involving them in our regular meetings was another opportunity to check in with 
 As a result, we all had more awareness about what was being worked on, opportunities for collaboration, problem solving and a real feeling that these are skilled and engaged team members not just external students.
 
 As their day-to-day supervisor I've probably benefited most from the experience of helping to train and guide such bright and engaged students, learning a lot about project organization and planning, communication, time management, as well as enjoying the small taste of power that comes from being able to delegate (relevant!) tasks to our new team members from time to time!
-More seriously, the prospect of supervising their thesis projects (not a stress-free task in itself) during COVID-19 and all of the difficulties it brought with it was certainly a little intimidating or challenging at times.
+More seriously, the prospect of supervising their thesis projects during COVID-19, and all of the difficulties it brought with it, was challenging at times.
 There's no doubt that sometimes it's easier to check everyone's on the same page when we're all in the same room.
 However, the tools we used made it feel much less of an impossible task and helped to make the process much smoother than it might otherwise have been.
 
@@ -177,10 +189,10 @@ With each cohort I've been involved with, I'm more convinced that open science p
 
 ## Day-to-day supervisor's top takeaways
 
-- Plan something to work on or read & discuss when the servers / vital equipment is down or something isn't working: this will happen, and possibly more than once! Have alternative tasks in mind.
 - Familiarise students with tools early & use them often. Investing time early on gives plenty of time for them (and you) to realise why these are time-savers (and often sanity-savers) later on in a project!
 - Include students in group and project meetings early on to help them acclimatise to the research group environment, and remember that it might be quite a culture shock!
 - Visibly and frequently ask questions, seek help and share ideas. This makes it less intimidating for students to do the same, and will help avoid misunderstandings, miscommunications and mistakes.
+- Plan something to work on or read & discuss when the servers / vital equipment is down or something isn't working: this will happen, and possibly more than once! Have alternative tasks in mind.
 
 
 # The PI perspective (Edward Wallace)
@@ -219,12 +231,13 @@ Writing documentation is excellent preparation for writing up a project report, 
 ## Overcoming the "intimidation threshold" to working open
 
 Working open means routinely sharing work, which can be difficult for students who may feel intimidated or anxious about being judged by others.
-These feelings do not reflect reality, as experienced bioinformaticians know that no-one else cares how you feel about your code, or even that you are the person who wrote it.
+These feelings do not reflect reality, as experienced bioinformaticians know that most people care about the code, not about its author(s).
 Colleagues and users mostly care if the code works, is readable, and has documentation that explains what it does.
 Open science practices of collaboratively reviewing and improving work, such as single-function chunks of code and sections of documentation, can demonstrate this important life lesson.
-Students can learn to see their work how other people see it, in small steps, ultimately producing better quality work and lowering stress levels.
+Students can learn to see their work the same way as other people see it, in small steps.
+This more detached perspective ultimately produces better quality work and lower stress levels.
 
-Sharing work can be made less threatening with clear expectations, structure, and role modeling.
+Sharing work is made easier by clear expectations, structure, and role modeling.
 Be clear that you expect students to ask for help, for example that if they have been stuck on something for more than 2 hours then they should ask for help.
 Have a structure about how and where to ask for help, for example a dedicated "project help" Slack channel or the GitHub issue ticket for the particular task.
 
@@ -234,13 +247,15 @@ When the conduct of the project is open, the whole team shares requests for help
 Openly discussing progress can lower the "intimidation threshold" for sharing technical contributions like code and data analysis.
 Emma and Sophie's project start coincided with a week-long hackathon with our transatlantic collaborators, with daily meetings where we discussed progress and commented on each other's code, which was an intense way to get started.
 We will do that again, because the very beginning of a project is the best time to demonstrate how open science works.
-Still, project students may be too intimidated by the PI's status to ask openly, and the PI may be too busy to help promptly, so it's important to have direct daily contact with another team member to triage problems and reassure the student.
+Despite our best efforts, project students may still be too intimidated by the PI's status to ask openly, and the PI may be too busy to help promptly, so it's important to have direct daily contact with another team member to triage problems and reassure the student.
 This team member needs to ask, when appropriate, "did you update the issue ticket?"
 
-Explaining how credit is assigned is also crucial.
+## Explain the benefits
+
+It's important to explain how credit is assigned, and the different benefits of the student's project final grade and of their contributions to a larger project.
 Usually, the project report or write-up determines most of the student's grade.
 The grade then doesn't depend directly on any code they contribute or results that they obtain.
-Open science projects resemble other group projects, such as the IGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and graded individually.
+Open science projects resemble other group projects, such as the iGEM-affiliated MSc projects run here in Edinburgh, where work is collaborative while reports are written and graded individually.
 By contrast, students' work during the research project can focus on learning, contributing, and building towards results.
 Feedback in an open science project provides formative assessment of student progress in an authentic research setting.
 
@@ -249,23 +264,23 @@ Our riboviz 2 preprint includes as co-authors 6 undergraduate or MSc students fr
 These co-authorships have been earned by adding new datasets, fixing bugs in code, adding new features, and improving documentation.
 Students also learn about the process of writing a collaborative paper by attending team manuscript meetings and contributing to the draft.
 
-## Mistakes and benefits
+## Mistakes, lessons learned, and rewards
 
 We have made plenty of mistakes.
 Students have spent weeks stuck on problems that other team members know how to solve, have written large chunks of code that aren't possible to incorporate into the larger project, and have cobbled together their own (undocumented) data structures.
-I as supervisor have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices and/or missing from our documentation.
+I, as supervisor, have asked students to do tasks that make sense to me, yet which are unclear or unachievable for novices, or missing from our documentation.
 Offering related projects over subsequent years helped us to learn from our previous mistakes, and to progress to new ones instead.
 
 These sorts of mistakes aren't unique to open science projects.
 Students doing their first experimental research projects can also get stuck, spend time on activities unimportant to the project, and drag their feet on asking for help.
 Most trainees need supervision on how to break a project down into small steps, in the new skills involved in executing those small steps, and in documentation and communication within a research group.
-So, lessons learned here transfer to other kinds of teaching and to supervision of trainees at all career stages.
+Lessons learned about project planning and communication transfer to other kinds of teaching and to supervision of trainees at all career stages.
 Open science projects such as riboviz emphasise the role of sharing and documentation, because that is an explicit outcome of the work rather than "just" a necessary stage of the pathway to results.
 
 Finally, working on collaborative open science projects is fun.
 At Edinburgh, we are lucky to have excellent students who are eager to go from programming novices to making substantial contributions to an open-source scientific project, within only a few months.
 They can write excellent project reports and earn first-class grades.
-It's satisfying to see them learn hard skills and to grow in confidence as scientists and programmers.
+It's rewarding to see them learn hard skills and to grow in confidence as scientists and programmers.
 I am amazed at what our students accomplish when treated as colleagues and given structured support to succeed.
 
 ## PI's top takeaways
