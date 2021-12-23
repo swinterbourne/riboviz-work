@@ -1,0 +1,79 @@
+# Twitter thread used to publicise open science projects article, 2021-12-16
+
+The benefits of an open-science approach in student research projects!
+
+Article about #researchculture @The_Biochemist, written with Emma MacKenzie, Sophie Winterbourne, and @Flic_Anderson.
+
+https://doi.org/10.1042/bio_2021_198
+1/
+
+
+We do open science here, and we take project students.
+
+We wrote up what we've learned over 4 years about making open projects work.
+
+A. Plan the project outcomes so that everybody wins.
+B. Plan a pathway from novice to expert within the project
+[picture]
+2/
+
+
+Undergraduates Emma and Sophie did their final-year (honours projects) working on the riboviz pipeline. A big project, needing new skills in bioinformatics and collaboration.
+
+The pathway: develop expertise through a series of authentic research tasks of increasing complexity.
+3/
+
+
+Emma and Sophie also earned co-authorships on riboviz, for Ribo-seq analysis.
+
+paper: https://doi.org/10.1101/2021.05.14.443910
+code: https://github.com/riboviz/riboviz
+
+Grab one of these excellent young scientists for a PhD if you can!!
+
+Next, some "top takeaways"...
+4/
+
+
+- It is easier to learn when resources are available to refer back to.
+- Documenting your work helps you, aids others and helps them help you.
+- Open science is like a group project, where the other members of your group are researchers and the world can see your work.
+5/
+
+
+- Familiarize students with tools early and use them often. Investing time early on gives plenty of time for them (and you) to realize why these are time-savers (and often sanity-savers) later on in a project!
+- Include students in group and project meetings early on to help them acclimatize to the research group environment, and remember that it might be quite a culture shock!
+6/
+
+
+- Visibly and frequently ask questions, seek help and share ideas. This makes it less intimidating for students to do the same.
+- Plan something to work on or read and discuss when the servers/vital equipment is down or something isn’t working.
+7/
+
+
+- Open science in student research projects can benefit everyone involved, as well as the wider research culture of the research group.
+- Plan a path from novice to expert for the students, using authentic research tasks. 
+- Overcome the ‘intimidation threshold’ for collaborative work by making it easy to share work...
+- Offer related projects over subsequent years.
+8/
+
+
+I'm delighted that we, in print, described dealing with genome annotations as "an infuriatingly unpredictable process in real-world bioinformatics."
+
+As well as celebrating Kostas the project manager and his catchphrase "Did you update the issue ticket?"
+9/
+
+
+We hope that the article is fun to read, and that it helps other people to plan student projects, in open science and elsewhere. We wrote it partly because we didn't find anything out there on the practicalities of how to plan it.
+10/
+
+
+Thanks to those whose writing inspired & helped our open science journey, listed in further reading.
+@thecarpentries @markowetzlab @MalvikaSharan @yoyehudi et al. @github @GitHubEducation
+11/
+
+
+Special thanks to riboviz team @premal_shah @liana_faye @AlexCope241, Kostas and Mike at @EPCCed, others not on twitter. Funded by @BBSRC, @wellcometrust, @SBSatEd
+
+Big thanks also to @chrstphrjcby for comments and discussions.
+12/end
